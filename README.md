@@ -963,4 +963,4 @@ Consider giving the repository a ⭐ on GitHub.
 This project is intended for educational, portfolio, and demonstration purposes.
 
 ```markdown
-[Open the Streamlit App] (https://book-recommendation-customer-intelligence-84ftawbf6hxvsjmuvuc8.streamlit.app/)
+[Open the Streamlit App](https://book-recommendation-customer-intelligence-84ftawbf6hxvsjmuvuc8.streamlit.app/)
