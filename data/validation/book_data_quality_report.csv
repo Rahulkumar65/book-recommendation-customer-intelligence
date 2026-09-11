@@ -1,0 +1,8 @@
+check,value,passed
+total_records,20,True
+duplicate_book_ids,0,True
+missing_title,0,True
+missing_author,0,True
+invalid_rating,0,True
+invalid_price,0,True
+invalid_review_count,0,True

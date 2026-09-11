@@ -1,0 +1,812 @@
+review_id,user_id,book_id,review_text,rating,review_date,sentiment,sentiment_score
+1,1,B007,Great book with helpful ideas and an enjoyable narrative.,3.0,2025-04-04T01:00:00,positive,2
+2,1,B002,Great book with helpful ideas and an enjoyable narrative.,4.0,2025-04-19T20:00:00,positive,2
+3,1,B016,Interesting but the pacing was slow.,4.2,2025-01-01T19:00:00,neutral,0
+4,1,B016,Confusing and disappointing in places.,3.0,2025-11-11T07:00:00,negative,-2
+5,1,B008,Confusing and disappointing in places.,3.1,2025-03-12T17:00:00,negative,-2
+6,1,B010,Excellent and interesting read. I loved the story.,1.6,2026-06-14T14:00:00,positive,3
+7,2,B011,Excellent and interesting read. I loved the story.,2.1,2026-02-25T14:00:00,positive,3
+8,2,B015,Great book with helpful ideas and an enjoyable narrative.,4.0,2025-04-22T07:00:00,positive,2
+9,2,B007,Interesting but the pacing was slow.,3.5,2026-04-11T09:00:00,neutral,0
+10,2,B015,Great book with helpful ideas and an enjoyable narrative.,4.2,2025-06-11T01:00:00,positive,2
+11,3,B020,Interesting but the pacing was slow.,4.1,2025-04-05T20:00:00,neutral,0
+12,3,B020,Confusing and disappointing in places.,3.6,2025-05-14T20:00:00,negative,-2
+13,4,B003,Excellent and interesting read. I loved the story.,3.5,2025-10-01T05:00:00,positive,3
+14,5,B019,Wonderful book. I enjoyed it and recommend it.,3.6,2025-07-14T08:00:00,positive,2
+15,5,B016,Great book with helpful ideas and an enjoyable narrative.,4.3,2025-06-23T21:00:00,positive,2
+16,5,B006,Excellent and interesting read. I loved the story.,5.0,2025-11-14T07:00:00,positive,3
+17,6,B016,Interesting but the pacing was slow.,2.8,2025-10-09T14:00:00,neutral,0
+18,6,B013,Great book with helpful ideas and an enjoyable narrative.,2.7,2025-11-24T17:00:00,positive,2
+19,7,B019,Interesting but the pacing was slow.,4.0,2025-03-27T20:00:00,neutral,0
+20,7,B019,Excellent and interesting read. I loved the story.,4.2,2025-02-11T00:00:00,positive,3
+21,7,B015,Excellent and interesting read. I loved the story.,4.1,2025-04-28T05:00:00,positive,3
+22,8,B014,Interesting but the pacing was slow.,3.6,2025-02-12T11:00:00,neutral,0
+23,8,B018,Interesting but the pacing was slow.,4.0,2025-01-13T13:00:00,neutral,0
+24,8,B015,Confusing and disappointing in places.,2.0,2025-09-09T02:00:00,negative,-2
+25,8,B017,Great book with helpful ideas and an enjoyable narrative.,5.0,2026-01-24T10:00:00,positive,2
+26,9,B020,Wonderful book. I enjoyed it and recommend it.,3.7,2025-10-31T07:00:00,positive,2
+27,9,B005,Excellent and interesting read. I loved the story.,3.7,2025-07-08T01:00:00,positive,3
+28,9,B004,Wonderful book. I enjoyed it and recommend it.,3.1,2026-02-15T15:00:00,positive,2
+29,9,B013,Confusing and disappointing in places.,4.4,2025-11-08T02:00:00,negative,-2
+30,9,B013,Excellent and interesting read. I loved the story.,5.0,2026-03-16T09:00:00,positive,3
+31,9,B019,Great book with helpful ideas and an enjoyable narrative.,2.6,2025-08-01T20:00:00,positive,2
+32,10,B002,Wonderful book. I enjoyed it and recommend it.,4.6,2026-05-26T20:00:00,positive,2
+33,10,B001,Wonderful book. I enjoyed it and recommend it.,5.0,2025-05-15T09:00:00,positive,2
+34,10,B007,Interesting but the pacing was slow.,3.1,2026-04-18T03:00:00,neutral,0
+35,11,B019,Confusing and disappointing in places.,3.3,2025-11-26T06:00:00,negative,-2
+36,11,B006,Wonderful book. I enjoyed it and recommend it.,3.5,2025-06-05T15:00:00,positive,2
+37,11,B020,Interesting but the pacing was slow.,5.0,2026-05-15T17:00:00,neutral,0
+38,12,B013,Confusing and disappointing in places.,2.9,2025-09-04T15:00:00,negative,-2
+39,12,B002,Confusing and disappointing in places.,3.9,2026-04-22T09:00:00,negative,-2
+40,13,B014,Interesting but the pacing was slow.,2.3,2025-02-10T09:00:00,neutral,0
+41,13,B006,Wonderful book. I enjoyed it and recommend it.,5.0,2026-02-11T17:00:00,positive,2
+42,14,B017,Excellent and interesting read. I loved the story.,3.7,2026-04-21T22:00:00,positive,3
+43,14,B017,Great book with helpful ideas and an enjoyable narrative.,4.6,2025-02-08T09:00:00,positive,2
+44,14,B019,Confusing and disappointing in places.,3.0,2026-02-22T08:00:00,negative,-2
+45,15,B020,Interesting but the pacing was slow.,3.4,2025-09-14T05:00:00,neutral,0
+46,15,B003,Confusing and disappointing in places.,1.8,2026-06-18T09:00:00,negative,-2
+47,15,B016,Excellent and interesting read. I loved the story.,4.0,2025-10-29T14:00:00,positive,3
+48,15,B012,Excellent and interesting read. I loved the story.,5.0,2026-05-01T02:00:00,positive,3
+49,16,B010,Wonderful book. I enjoyed it and recommend it.,3.3,2026-02-15T02:00:00,positive,2
+50,16,B016,Interesting but the pacing was slow.,3.5,2025-08-09T12:00:00,neutral,0
+51,16,B012,Excellent and interesting read. I loved the story.,3.4,2025-06-09T05:00:00,positive,3
+52,17,B010,Excellent and interesting read. I loved the story.,2.7,2025-06-25T19:00:00,positive,3
+53,17,B014,Great book with helpful ideas and an enjoyable narrative.,3.7,2026-02-10T09:00:00,positive,2
+54,17,B018,Great book with helpful ideas and an enjoyable narrative.,4.2,2025-07-18T11:00:00,positive,2
+55,17,B001,Confusing and disappointing in places.,3.3,2025-11-27T20:00:00,negative,-2
+56,17,B020,Interesting but the pacing was slow.,4.0,2025-03-17T09:00:00,neutral,0
+57,18,B007,Excellent and interesting read. I loved the story.,4.5,2025-02-23T20:00:00,positive,3
+58,18,B005,Excellent and interesting read. I loved the story.,3.7,2025-05-25T11:00:00,positive,3
+59,18,B007,Interesting but the pacing was slow.,4.5,2025-12-16T15:00:00,neutral,0
+60,18,B006,Wonderful book. I enjoyed it and recommend it.,4.6,2025-05-15T19:00:00,positive,2
+61,18,B008,Confusing and disappointing in places.,2.1,2025-07-24T19:00:00,negative,-2
+62,19,B020,Excellent and interesting read. I loved the story.,3.5,2026-06-25T13:00:00,positive,3
+63,19,B002,Confusing and disappointing in places.,4.5,2025-02-18T07:00:00,negative,-2
+64,19,B020,Confusing and disappointing in places.,4.8,2025-10-26T13:00:00,negative,-2
+65,21,B013,Excellent and interesting read. I loved the story.,4.8,2026-01-11T12:00:00,positive,3
+66,21,B006,Great book with helpful ideas and an enjoyable narrative.,2.6,2025-08-08T19:00:00,positive,2
+67,21,B004,Wonderful book. I enjoyed it and recommend it.,3.5,2025-05-23T07:00:00,positive,2
+68,22,B012,Interesting but the pacing was slow.,3.5,2025-10-18T02:00:00,neutral,0
+69,22,B020,Wonderful book. I enjoyed it and recommend it.,3.0,2025-12-12T18:00:00,positive,2
+70,23,B002,Wonderful book. I enjoyed it and recommend it.,4.8,2025-07-19T11:00:00,positive,2
+71,23,B020,Excellent and interesting read. I loved the story.,3.9,2026-04-07T17:00:00,positive,3
+72,24,B014,Interesting but the pacing was slow.,2.9,2025-07-16T07:00:00,neutral,0
+73,24,B004,Wonderful book. I enjoyed it and recommend it.,4.2,2026-03-29T20:00:00,positive,2
+74,24,B013,Wonderful book. I enjoyed it and recommend it.,3.0,2025-10-05T17:00:00,positive,2
+75,24,B019,Great book with helpful ideas and an enjoyable narrative.,2.8,2025-02-23T03:00:00,positive,2
+76,24,B003,Confusing and disappointing in places.,2.3,2025-01-06T17:00:00,negative,-2
+77,25,B006,Wonderful book. I enjoyed it and recommend it.,3.5,2025-03-25T16:00:00,positive,2
+78,27,B020,Great book with helpful ideas and an enjoyable narrative.,4.0,2025-09-08T23:00:00,positive,2
+79,27,B015,Wonderful book. I enjoyed it and recommend it.,4.5,2025-02-27T04:00:00,positive,2
+80,27,B010,Wonderful book. I enjoyed it and recommend it.,2.9,2026-06-18T07:00:00,positive,2
+81,27,B007,Great book with helpful ideas and an enjoyable narrative.,4.6,2025-11-04T12:00:00,positive,2
+82,28,B017,Confusing and disappointing in places.,4.4,2026-01-15T02:00:00,negative,-2
+83,28,B012,Great book with helpful ideas and an enjoyable narrative.,4.1,2025-12-07T09:00:00,positive,2
+84,28,B010,Great book with helpful ideas and an enjoyable narrative.,3.9,2025-09-06T22:00:00,positive,2
+85,28,B007,Great book with helpful ideas and an enjoyable narrative.,3.3,2026-02-28T01:00:00,positive,2
+86,28,B002,Wonderful book. I enjoyed it and recommend it.,4.1,2026-03-04T09:00:00,positive,2
+87,29,B016,Great book with helpful ideas and an enjoyable narrative.,3.1,2025-02-19T00:00:00,positive,2
+88,29,B020,Wonderful book. I enjoyed it and recommend it.,3.7,2025-01-10T06:00:00,positive,2
+89,29,B013,Confusing and disappointing in places.,3.2,2025-12-29T08:00:00,negative,-2
+90,29,B013,Confusing and disappointing in places.,5.0,2025-02-27T20:00:00,negative,-2
+91,30,B011,Great book with helpful ideas and an enjoyable narrative.,4.2,2025-09-10T22:00:00,positive,2
+92,30,B002,Interesting but the pacing was slow.,2.9,2026-02-03T10:00:00,neutral,0
+93,30,B002,Excellent and interesting read. I loved the story.,3.4,2026-04-01T11:00:00,positive,3
+94,30,B019,Excellent and interesting read. I loved the story.,3.4,2025-07-11T13:00:00,positive,3
+95,30,B001,Interesting but the pacing was slow.,3.6,2025-09-06T18:00:00,neutral,0
+96,30,B019,Interesting but the pacing was slow.,3.1,2025-11-05T08:00:00,neutral,0
+97,31,B018,Interesting but the pacing was slow.,4.7,2026-03-17T20:00:00,neutral,0
+98,31,B002,Wonderful book. I enjoyed it and recommend it.,5.0,2025-07-24T18:00:00,positive,2
+99,32,B005,Great book with helpful ideas and an enjoyable narrative.,4.9,2025-10-30T13:00:00,positive,2
+100,32,B011,Interesting but the pacing was slow.,3.8,2025-11-04T01:00:00,neutral,0
+101,32,B003,Confusing and disappointing in places.,2.2,2025-07-11T11:00:00,negative,-2
+102,32,B010,Great book with helpful ideas and an enjoyable narrative.,2.7,2025-11-17T03:00:00,positive,2
+103,33,B012,Confusing and disappointing in places.,4.0,2026-01-11T17:00:00,negative,-2
+104,35,B018,Interesting but the pacing was slow.,3.1,2025-08-23T12:00:00,neutral,0
+105,35,B020,Excellent and interesting read. I loved the story.,4.0,2025-08-11T02:00:00,positive,3
+106,35,B017,Wonderful book. I enjoyed it and recommend it.,4.1,2025-05-24T07:00:00,positive,2
+107,36,B013,Interesting but the pacing was slow.,4.1,2025-03-14T16:00:00,neutral,0
+108,36,B001,Excellent and interesting read. I loved the story.,4.4,2025-01-18T18:00:00,positive,3
+109,36,B007,Wonderful book. I enjoyed it and recommend it.,1.5,2025-09-02T01:00:00,positive,2
+110,36,B013,Wonderful book. I enjoyed it and recommend it.,4.0,2025-03-20T15:00:00,positive,2
+111,37,B010,Excellent and interesting read. I loved the story.,3.4,2026-04-29T11:00:00,positive,3
+112,37,B014,Great book with helpful ideas and an enjoyable narrative.,4.5,2025-05-03T16:00:00,positive,2
+113,37,B018,Confusing and disappointing in places.,3.5,2026-06-13T01:00:00,negative,-2
+114,37,B005,Great book with helpful ideas and an enjoyable narrative.,3.3,2025-10-17T09:00:00,positive,2
+115,37,B005,Wonderful book. I enjoyed it and recommend it.,3.2,2025-09-09T04:00:00,positive,2
+116,38,B007,Great book with helpful ideas and an enjoyable narrative.,4.5,2026-02-08T02:00:00,positive,2
+117,38,B015,Wonderful book. I enjoyed it and recommend it.,3.6,2026-04-09T08:00:00,positive,2
+118,38,B020,Interesting but the pacing was slow.,3.4,2026-04-20T08:00:00,neutral,0
+119,38,B020,Confusing and disappointing in places.,3.3,2025-02-20T21:00:00,negative,-2
+120,39,B014,Confusing and disappointing in places.,4.1,2025-03-18T00:00:00,negative,-2
+121,39,B002,Wonderful book. I enjoyed it and recommend it.,3.9,2025-12-06T03:00:00,positive,2
+122,39,B018,Wonderful book. I enjoyed it and recommend it.,4.5,2025-03-31T08:00:00,positive,2
+123,40,B006,Excellent and interesting read. I loved the story.,4.2,2026-05-20T17:00:00,positive,3
+124,40,B016,Wonderful book. I enjoyed it and recommend it.,4.1,2025-08-27T19:00:00,positive,2
+125,40,B018,Wonderful book. I enjoyed it and recommend it.,4.2,2026-05-14T20:00:00,positive,2
+126,40,B001,Excellent and interesting read. I loved the story.,3.1,2025-06-29T12:00:00,positive,3
+127,40,B011,Interesting but the pacing was slow.,3.4,2025-05-25T10:00:00,neutral,0
+128,40,B011,Interesting but the pacing was slow.,3.8,2025-06-21T20:00:00,neutral,0
+129,41,B003,Great book with helpful ideas and an enjoyable narrative.,4.1,2025-11-23T08:00:00,positive,2
+130,41,B020,Great book with helpful ideas and an enjoyable narrative.,3.4,2026-03-21T05:00:00,positive,2
+131,41,B008,Confusing and disappointing in places.,4.8,2025-09-29T21:00:00,negative,-2
+132,42,B007,Confusing and disappointing in places.,3.8,2025-06-21T06:00:00,negative,-2
+133,42,B003,Wonderful book. I enjoyed it and recommend it.,3.3,2026-06-20T13:00:00,positive,2
+134,42,B008,Interesting but the pacing was slow.,3.4,2025-04-13T03:00:00,neutral,0
+135,43,B002,Wonderful book. I enjoyed it and recommend it.,3.7,2025-06-12T02:00:00,positive,2
+136,43,B001,Wonderful book. I enjoyed it and recommend it.,4.2,2025-04-03T09:00:00,positive,2
+137,44,B020,Wonderful book. I enjoyed it and recommend it.,3.4,2025-07-14T10:00:00,positive,2
+138,44,B016,Great book with helpful ideas and an enjoyable narrative.,2.5,2026-02-28T01:00:00,positive,2
+139,45,B001,Interesting but the pacing was slow.,4.4,2025-01-19T21:00:00,neutral,0
+140,45,B006,Excellent and interesting read. I loved the story.,4.5,2025-11-16T04:00:00,positive,3
+141,45,B007,Excellent and interesting read. I loved the story.,3.0,2026-02-18T00:00:00,positive,3
+142,45,B011,Excellent and interesting read. I loved the story.,2.9,2025-02-19T21:00:00,positive,3
+143,46,B018,Excellent and interesting read. I loved the story.,3.5,2025-04-24T18:00:00,positive,3
+144,46,B009,Interesting but the pacing was slow.,3.3,2026-06-08T02:00:00,neutral,0
+145,46,B011,Interesting but the pacing was slow.,4.1,2025-01-10T04:00:00,neutral,0
+146,47,B015,Confusing and disappointing in places.,3.1,2026-05-10T18:00:00,negative,-2
+147,47,B010,Wonderful book. I enjoyed it and recommend it.,4.3,2025-03-06T08:00:00,positive,2
+148,47,B006,Interesting but the pacing was slow.,2.7,2025-04-08T13:00:00,neutral,0
+149,47,B015,Confusing and disappointing in places.,2.9,2025-02-25T00:00:00,negative,-2
+150,47,B004,Confusing and disappointing in places.,3.3,2026-01-23T12:00:00,negative,-2
+151,48,B001,Interesting but the pacing was slow.,4.1,2025-04-27T03:00:00,neutral,0
+152,48,B017,Great book with helpful ideas and an enjoyable narrative.,3.9,2026-06-19T11:00:00,positive,2
+153,48,B020,Confusing and disappointing in places.,2.4,2026-02-24T03:00:00,negative,-2
+154,49,B009,Excellent and interesting read. I loved the story.,3.3,2026-06-01T04:00:00,positive,3
+155,49,B013,Wonderful book. I enjoyed it and recommend it.,3.6,2025-06-27T23:00:00,positive,2
+156,50,B014,Wonderful book. I enjoyed it and recommend it.,3.5,2025-07-28T17:00:00,positive,2
+157,50,B018,Confusing and disappointing in places.,3.7,2025-11-17T17:00:00,negative,-2
+158,50,B002,Great book with helpful ideas and an enjoyable narrative.,4.9,2025-12-05T14:00:00,positive,2
+159,51,B010,Wonderful book. I enjoyed it and recommend it.,4.6,2025-07-17T10:00:00,positive,2
+160,51,B020,Interesting but the pacing was slow.,3.8,2025-03-15T23:00:00,neutral,0
+161,52,B005,Confusing and disappointing in places.,4.0,2025-02-01T15:00:00,negative,-2
+162,52,B005,Excellent and interesting read. I loved the story.,4.9,2025-01-12T17:00:00,positive,3
+163,52,B011,Wonderful book. I enjoyed it and recommend it.,5.0,2025-03-29T09:00:00,positive,2
+164,52,B005,Great book with helpful ideas and an enjoyable narrative.,4.0,2025-05-26T05:00:00,positive,2
+165,52,B016,Interesting but the pacing was slow.,2.4,2026-01-01T04:00:00,neutral,0
+166,53,B005,Interesting but the pacing was slow.,3.1,2026-05-11T11:00:00,neutral,0
+167,54,B019,Wonderful book. I enjoyed it and recommend it.,3.8,2025-06-14T04:00:00,positive,2
+168,54,B007,Confusing and disappointing in places.,3.6,2025-12-17T14:00:00,negative,-2
+169,55,B001,Wonderful book. I enjoyed it and recommend it.,5.0,2025-05-02T23:00:00,positive,2
+170,56,B002,Confusing and disappointing in places.,2.6,2025-10-11T07:00:00,negative,-2
+171,57,B005,Great book with helpful ideas and an enjoyable narrative.,3.9,2025-07-14T15:00:00,positive,2
+172,57,B017,Excellent and interesting read. I loved the story.,4.2,2025-12-31T04:00:00,positive,3
+173,57,B020,Confusing and disappointing in places.,5.0,2026-06-08T08:00:00,negative,-2
+174,57,B020,Great book with helpful ideas and an enjoyable narrative.,4.2,2026-04-17T10:00:00,positive,2
+175,57,B017,Interesting but the pacing was slow.,3.0,2025-12-18T11:00:00,neutral,0
+176,58,B016,Confusing and disappointing in places.,4.6,2025-06-03T15:00:00,negative,-2
+177,58,B005,Interesting but the pacing was slow.,1.7,2026-02-12T03:00:00,neutral,0
+178,59,B006,Wonderful book. I enjoyed it and recommend it.,2.9,2025-01-27T12:00:00,positive,2
+179,59,B013,Interesting but the pacing was slow.,2.5,2025-05-10T04:00:00,neutral,0
+180,59,B011,Wonderful book. I enjoyed it and recommend it.,3.1,2026-01-10T13:00:00,positive,2
+181,59,B002,Interesting but the pacing was slow.,4.8,2025-10-03T13:00:00,neutral,0
+182,60,B008,Confusing and disappointing in places.,2.6,2025-02-02T10:00:00,negative,-2
+183,60,B001,Great book with helpful ideas and an enjoyable narrative.,3.8,2025-09-14T12:00:00,positive,2
+184,60,B020,Excellent and interesting read. I loved the story.,3.2,2026-01-30T14:00:00,positive,3
+185,60,B006,Excellent and interesting read. I loved the story.,3.6,2026-06-18T03:00:00,positive,3
+186,60,B016,Confusing and disappointing in places.,3.2,2025-12-22T14:00:00,negative,-2
+187,60,B006,Great book with helpful ideas and an enjoyable narrative.,3.1,2026-03-25T17:00:00,positive,2
+188,61,B016,Great book with helpful ideas and an enjoyable narrative.,1.9,2025-04-24T03:00:00,positive,2
+189,61,B018,Excellent and interesting read. I loved the story.,4.1,2025-07-02T01:00:00,positive,3
+190,61,B010,Great book with helpful ideas and an enjoyable narrative.,5.0,2026-02-02T21:00:00,positive,2
+191,61,B002,Confusing and disappointing in places.,3.2,2025-03-14T00:00:00,negative,-2
+192,61,B004,Wonderful book. I enjoyed it and recommend it.,3.4,2025-03-23T14:00:00,positive,2
+193,61,B008,Wonderful book. I enjoyed it and recommend it.,3.3,2026-03-02T11:00:00,positive,2
+194,61,B008,Great book with helpful ideas and an enjoyable narrative.,5.0,2025-03-21T06:00:00,positive,2
+195,62,B008,Great book with helpful ideas and an enjoyable narrative.,3.0,2025-01-17T16:00:00,positive,2
+196,62,B007,Interesting but the pacing was slow.,4.2,2025-04-07T01:00:00,neutral,0
+197,62,B008,Confusing and disappointing in places.,4.7,2025-09-13T07:00:00,negative,-2
+198,62,B015,Wonderful book. I enjoyed it and recommend it.,4.2,2025-04-08T19:00:00,positive,2
+199,63,B011,Confusing and disappointing in places.,3.9,2025-11-28T21:00:00,negative,-2
+200,63,B014,Excellent and interesting read. I loved the story.,5.0,2025-08-28T06:00:00,positive,3
+201,64,B001,Wonderful book. I enjoyed it and recommend it.,3.4,2025-05-25T22:00:00,positive,2
+202,64,B003,Interesting but the pacing was slow.,3.7,2025-10-05T01:00:00,neutral,0
+203,64,B009,Confusing and disappointing in places.,3.7,2026-01-04T03:00:00,negative,-2
+204,64,B009,Interesting but the pacing was slow.,2.5,2025-01-31T17:00:00,neutral,0
+205,65,B001,Great book with helpful ideas and an enjoyable narrative.,4.4,2025-10-08T04:00:00,positive,2
+206,65,B001,Great book with helpful ideas and an enjoyable narrative.,3.4,2025-01-16T08:00:00,positive,2
+207,65,B015,Great book with helpful ideas and an enjoyable narrative.,3.0,2026-04-08T14:00:00,positive,2
+208,65,B001,Confusing and disappointing in places.,3.3,2026-06-13T20:00:00,negative,-2
+209,66,B018,Confusing and disappointing in places.,3.2,2025-05-19T12:00:00,negative,-2
+210,66,B003,Confusing and disappointing in places.,3.8,2025-06-17T22:00:00,negative,-2
+211,66,B013,Excellent and interesting read. I loved the story.,2.7,2025-06-03T05:00:00,positive,3
+212,66,B012,Confusing and disappointing in places.,2.5,2025-01-04T19:00:00,negative,-2
+213,66,B003,Wonderful book. I enjoyed it and recommend it.,4.2,2026-03-29T02:00:00,positive,2
+214,68,B017,Interesting but the pacing was slow.,3.2,2026-06-03T17:00:00,neutral,0
+215,68,B015,Excellent and interesting read. I loved the story.,3.0,2025-06-19T18:00:00,positive,3
+216,68,B009,Excellent and interesting read. I loved the story.,2.6,2025-11-06T06:00:00,positive,3
+217,68,B016,Excellent and interesting read. I loved the story.,3.3,2026-06-21T09:00:00,positive,3
+218,69,B013,Wonderful book. I enjoyed it and recommend it.,2.7,2025-05-01T08:00:00,positive,2
+219,69,B001,Excellent and interesting read. I loved the story.,3.5,2025-02-21T04:00:00,positive,3
+220,69,B013,Confusing and disappointing in places.,4.5,2025-03-22T14:00:00,negative,-2
+221,70,B016,Wonderful book. I enjoyed it and recommend it.,3.6,2025-08-30T05:00:00,positive,2
+222,70,B012,Excellent and interesting read. I loved the story.,2.9,2025-04-10T14:00:00,positive,3
+223,70,B016,Great book with helpful ideas and an enjoyable narrative.,3.6,2026-01-24T10:00:00,positive,2
+224,70,B020,Wonderful book. I enjoyed it and recommend it.,2.3,2025-10-29T01:00:00,positive,2
+225,71,B020,Wonderful book. I enjoyed it and recommend it.,2.4,2025-04-26T18:00:00,positive,2
+226,71,B017,Excellent and interesting read. I loved the story.,4.0,2025-10-14T14:00:00,positive,3
+227,72,B016,Excellent and interesting read. I loved the story.,3.6,2025-10-15T08:00:00,positive,3
+228,72,B002,Confusing and disappointing in places.,2.9,2025-02-25T20:00:00,negative,-2
+229,72,B005,Confusing and disappointing in places.,4.7,2026-02-04T15:00:00,negative,-2
+230,72,B002,Wonderful book. I enjoyed it and recommend it.,2.3,2026-01-27T21:00:00,positive,2
+231,73,B009,Excellent and interesting read. I loved the story.,3.0,2025-01-11T21:00:00,positive,3
+232,73,B007,Wonderful book. I enjoyed it and recommend it.,4.1,2025-05-05T22:00:00,positive,2
+233,73,B013,Wonderful book. I enjoyed it and recommend it.,3.1,2025-07-25T19:00:00,positive,2
+234,73,B015,Confusing and disappointing in places.,3.8,2026-03-18T06:00:00,negative,-2
+235,73,B013,Excellent and interesting read. I loved the story.,3.2,2025-09-14T14:00:00,positive,3
+236,74,B019,Confusing and disappointing in places.,3.2,2025-04-03T11:00:00,negative,-2
+237,74,B009,Great book with helpful ideas and an enjoyable narrative.,3.8,2025-02-16T07:00:00,positive,2
+238,74,B017,Wonderful book. I enjoyed it and recommend it.,2.8,2025-02-21T09:00:00,positive,2
+239,74,B010,Wonderful book. I enjoyed it and recommend it.,4.5,2025-06-24T18:00:00,positive,2
+240,75,B006,Excellent and interesting read. I loved the story.,3.6,2026-01-21T05:00:00,positive,3
+241,75,B001,Wonderful book. I enjoyed it and recommend it.,4.6,2026-03-05T00:00:00,positive,2
+242,75,B005,Interesting but the pacing was slow.,3.7,2026-05-01T15:00:00,neutral,0
+243,75,B004,Excellent and interesting read. I loved the story.,3.3,2025-11-30T13:00:00,positive,3
+244,75,B001,Confusing and disappointing in places.,3.8,2026-01-20T07:00:00,negative,-2
+245,76,B004,Confusing and disappointing in places.,3.3,2026-03-15T23:00:00,negative,-2
+246,76,B004,Confusing and disappointing in places.,3.8,2025-01-06T13:00:00,negative,-2
+247,78,B015,Great book with helpful ideas and an enjoyable narrative.,4.2,2026-03-07T14:00:00,positive,2
+248,78,B015,Wonderful book. I enjoyed it and recommend it.,4.5,2025-03-06T00:00:00,positive,2
+249,79,B002,Excellent and interesting read. I loved the story.,3.9,2025-05-10T14:00:00,positive,3
+250,79,B009,Excellent and interesting read. I loved the story.,3.5,2025-02-11T04:00:00,positive,3
+251,79,B018,Wonderful book. I enjoyed it and recommend it.,2.5,2026-04-02T21:00:00,positive,2
+252,80,B006,Wonderful book. I enjoyed it and recommend it.,4.2,2025-05-28T06:00:00,positive,2
+253,80,B017,Interesting but the pacing was slow.,2.8,2026-03-04T05:00:00,neutral,0
+254,81,B016,Interesting but the pacing was slow.,3.1,2025-07-07T03:00:00,neutral,0
+255,81,B007,Great book with helpful ideas and an enjoyable narrative.,3.4,2026-02-26T10:00:00,positive,2
+256,81,B008,Great book with helpful ideas and an enjoyable narrative.,4.3,2025-04-27T13:00:00,positive,2
+257,81,B013,Confusing and disappointing in places.,2.8,2025-01-18T15:00:00,negative,-2
+258,81,B008,Excellent and interesting read. I loved the story.,3.9,2026-06-20T10:00:00,positive,3
+259,81,B002,Great book with helpful ideas and an enjoyable narrative.,2.9,2025-08-16T04:00:00,positive,2
+260,82,B007,Wonderful book. I enjoyed it and recommend it.,4.2,2025-09-05T16:00:00,positive,2
+261,82,B011,Interesting but the pacing was slow.,3.1,2026-03-11T06:00:00,neutral,0
+262,82,B014,Confusing and disappointing in places.,2.2,2026-01-05T22:00:00,negative,-2
+263,83,B020,Confusing and disappointing in places.,4.3,2026-01-08T06:00:00,negative,-2
+264,83,B017,Great book with helpful ideas and an enjoyable narrative.,4.0,2025-04-21T03:00:00,positive,2
+265,83,B002,Confusing and disappointing in places.,3.6,2026-06-17T15:00:00,negative,-2
+266,84,B010,Interesting but the pacing was slow.,3.6,2026-01-01T13:00:00,neutral,0
+267,84,B009,Great book with helpful ideas and an enjoyable narrative.,4.8,2025-03-28T22:00:00,positive,2
+268,85,B014,Great book with helpful ideas and an enjoyable narrative.,3.7,2025-03-03T16:00:00,positive,2
+269,85,B008,Interesting but the pacing was slow.,3.6,2025-02-07T06:00:00,neutral,0
+270,85,B005,Great book with helpful ideas and an enjoyable narrative.,4.2,2026-01-08T21:00:00,positive,2
+271,85,B016,Excellent and interesting read. I loved the story.,5.0,2026-06-22T08:00:00,positive,3
+272,87,B015,Great book with helpful ideas and an enjoyable narrative.,5.0,2025-07-08T20:00:00,positive,2
+273,87,B017,Great book with helpful ideas and an enjoyable narrative.,3.5,2025-11-09T10:00:00,positive,2
+274,87,B015,Great book with helpful ideas and an enjoyable narrative.,3.9,2025-08-23T02:00:00,positive,2
+275,87,B010,Wonderful book. I enjoyed it and recommend it.,4.9,2025-06-02T02:00:00,positive,2
+276,88,B019,Interesting but the pacing was slow.,2.8,2025-07-04T13:00:00,neutral,0
+277,88,B010,Great book with helpful ideas and an enjoyable narrative.,3.7,2025-09-20T02:00:00,positive,2
+278,88,B017,Excellent and interesting read. I loved the story.,4.6,2025-05-16T02:00:00,positive,3
+279,89,B018,Excellent and interesting read. I loved the story.,3.0,2026-03-27T01:00:00,positive,3
+280,89,B013,Excellent and interesting read. I loved the story.,4.5,2025-04-26T23:00:00,positive,3
+281,89,B005,Excellent and interesting read. I loved the story.,2.4,2025-01-05T16:00:00,positive,3
+282,90,B011,Confusing and disappointing in places.,3.7,2026-01-26T02:00:00,negative,-2
+283,90,B012,Confusing and disappointing in places.,2.5,2025-04-02T00:00:00,negative,-2
+284,90,B011,Confusing and disappointing in places.,4.7,2026-02-02T15:00:00,negative,-2
+285,90,B011,Wonderful book. I enjoyed it and recommend it.,5.0,2026-01-13T19:00:00,positive,2
+286,91,B009,Excellent and interesting read. I loved the story.,3.1,2026-02-09T09:00:00,positive,3
+287,91,B002,Confusing and disappointing in places.,3.3,2025-03-30T09:00:00,negative,-2
+288,92,B010,Confusing and disappointing in places.,5.0,2025-08-01T09:00:00,negative,-2
+289,92,B014,Confusing and disappointing in places.,2.8,2025-05-13T05:00:00,negative,-2
+290,93,B018,Excellent and interesting read. I loved the story.,4.5,2025-04-15T17:00:00,positive,3
+291,93,B004,Interesting but the pacing was slow.,3.0,2026-06-03T15:00:00,neutral,0
+292,93,B002,Wonderful book. I enjoyed it and recommend it.,2.4,2026-03-01T11:00:00,positive,2
+293,94,B020,Interesting but the pacing was slow.,3.2,2025-06-13T00:00:00,neutral,0
+294,94,B019,Excellent and interesting read. I loved the story.,3.6,2025-09-23T20:00:00,positive,3
+295,95,B006,Wonderful book. I enjoyed it and recommend it.,3.9,2025-05-24T22:00:00,positive,2
+296,95,B017,Wonderful book. I enjoyed it and recommend it.,4.0,2025-05-28T16:00:00,positive,2
+297,95,B013,Great book with helpful ideas and an enjoyable narrative.,2.7,2025-05-01T22:00:00,positive,2
+298,95,B012,Great book with helpful ideas and an enjoyable narrative.,4.5,2025-05-04T11:00:00,positive,2
+299,95,B006,Wonderful book. I enjoyed it and recommend it.,5.0,2026-05-13T00:00:00,positive,2
+300,95,B015,Wonderful book. I enjoyed it and recommend it.,3.2,2025-10-18T06:00:00,positive,2
+301,96,B016,Wonderful book. I enjoyed it and recommend it.,2.8,2025-01-20T08:00:00,positive,2
+302,97,B002,Great book with helpful ideas and an enjoyable narrative.,3.5,2026-02-27T10:00:00,positive,2
+303,97,B002,Excellent and interesting read. I loved the story.,4.8,2025-10-03T01:00:00,positive,3
+304,97,B015,Wonderful book. I enjoyed it and recommend it.,2.5,2026-05-28T06:00:00,positive,2
+305,97,B002,Confusing and disappointing in places.,5.0,2025-10-24T20:00:00,negative,-2
+306,98,B007,Interesting but the pacing was slow.,3.7,2026-01-02T12:00:00,neutral,0
+307,99,B007,Excellent and interesting read. I loved the story.,3.7,2026-06-20T23:00:00,positive,3
+308,100,B001,Wonderful book. I enjoyed it and recommend it.,3.7,2025-03-08T04:00:00,positive,2
+309,100,B001,Wonderful book. I enjoyed it and recommend it.,4.8,2025-10-29T12:00:00,positive,2
+310,100,B016,Excellent and interesting read. I loved the story.,4.3,2025-01-27T14:00:00,positive,3
+311,100,B004,Wonderful book. I enjoyed it and recommend it.,3.1,2025-03-11T18:00:00,positive,2
+312,101,B008,Excellent and interesting read. I loved the story.,3.3,2025-07-20T06:00:00,positive,3
+313,101,B002,Confusing and disappointing in places.,3.8,2025-12-10T19:00:00,negative,-2
+314,101,B008,Interesting but the pacing was slow.,4.4,2025-08-24T14:00:00,neutral,0
+315,102,B006,Interesting but the pacing was slow.,3.6,2025-12-14T17:00:00,neutral,0
+316,102,B020,Excellent and interesting read. I loved the story.,2.8,2025-04-14T00:00:00,positive,3
+317,102,B015,Excellent and interesting read. I loved the story.,4.0,2026-06-05T18:00:00,positive,3
+318,102,B002,Confusing and disappointing in places.,3.6,2026-04-27T21:00:00,negative,-2
+319,102,B001,Interesting but the pacing was slow.,3.6,2026-06-06T11:00:00,neutral,0
+320,103,B014,Great book with helpful ideas and an enjoyable narrative.,3.2,2026-05-25T10:00:00,positive,2
+321,103,B004,Great book with helpful ideas and an enjoyable narrative.,3.2,2025-08-22T03:00:00,positive,2
+322,103,B013,Interesting but the pacing was slow.,3.8,2025-05-12T09:00:00,neutral,0
+323,104,B006,Confusing and disappointing in places.,5.0,2026-02-05T12:00:00,negative,-2
+324,104,B015,Wonderful book. I enjoyed it and recommend it.,4.9,2025-11-08T02:00:00,positive,2
+325,104,B008,Confusing and disappointing in places.,3.3,2025-03-13T14:00:00,negative,-2
+326,104,B011,Confusing and disappointing in places.,3.2,2026-02-05T05:00:00,negative,-2
+327,104,B010,Great book with helpful ideas and an enjoyable narrative.,3.5,2026-05-05T23:00:00,positive,2
+328,105,B007,Wonderful book. I enjoyed it and recommend it.,4.0,2025-02-14T07:00:00,positive,2
+329,105,B002,Excellent and interesting read. I loved the story.,3.4,2025-06-24T00:00:00,positive,3
+330,106,B004,Excellent and interesting read. I loved the story.,2.7,2025-07-16T21:00:00,positive,3
+331,106,B001,Great book with helpful ideas and an enjoyable narrative.,4.4,2025-12-01T10:00:00,positive,2
+332,106,B015,Interesting but the pacing was slow.,3.2,2026-02-09T13:00:00,neutral,0
+333,106,B015,Great book with helpful ideas and an enjoyable narrative.,4.4,2025-06-27T00:00:00,positive,2
+334,107,B006,Wonderful book. I enjoyed it and recommend it.,2.8,2026-01-27T16:00:00,positive,2
+335,107,B012,Interesting but the pacing was slow.,3.6,2026-03-15T07:00:00,neutral,0
+336,107,B020,Excellent and interesting read. I loved the story.,3.4,2026-05-26T09:00:00,positive,3
+337,107,B015,Excellent and interesting read. I loved the story.,3.8,2025-08-23T23:00:00,positive,3
+338,107,B007,Confusing and disappointing in places.,4.0,2025-09-12T21:00:00,negative,-2
+339,107,B013,Confusing and disappointing in places.,3.6,2026-06-18T10:00:00,negative,-2
+340,107,B007,Excellent and interesting read. I loved the story.,3.0,2025-05-09T02:00:00,positive,3
+341,107,B007,Interesting but the pacing was slow.,2.3,2026-04-05T20:00:00,neutral,0
+342,108,B011,Great book with helpful ideas and an enjoyable narrative.,4.2,2026-05-08T02:00:00,positive,2
+343,108,B013,Confusing and disappointing in places.,1.7,2025-02-09T03:00:00,negative,-2
+344,110,B005,Excellent and interesting read. I loved the story.,3.6,2025-10-28T02:00:00,positive,3
+345,110,B002,Interesting but the pacing was slow.,3.9,2025-08-29T15:00:00,neutral,0
+346,110,B004,Confusing and disappointing in places.,3.8,2025-10-14T22:00:00,negative,-2
+347,111,B020,Excellent and interesting read. I loved the story.,3.5,2026-05-09T21:00:00,positive,3
+348,111,B008,Interesting but the pacing was slow.,3.0,2025-04-19T13:00:00,neutral,0
+349,111,B020,Interesting but the pacing was slow.,5.0,2025-05-07T21:00:00,neutral,0
+350,112,B005,Excellent and interesting read. I loved the story.,4.2,2026-04-12T04:00:00,positive,3
+351,112,B009,Excellent and interesting read. I loved the story.,1.7,2025-08-04T23:00:00,positive,3
+352,112,B019,Great book with helpful ideas and an enjoyable narrative.,3.2,2026-03-29T22:00:00,positive,2
+353,113,B003,Confusing and disappointing in places.,3.5,2025-11-06T22:00:00,negative,-2
+354,113,B012,Excellent and interesting read. I loved the story.,4.4,2026-03-21T09:00:00,positive,3
+355,113,B020,Wonderful book. I enjoyed it and recommend it.,3.3,2025-07-09T12:00:00,positive,2
+356,114,B019,Excellent and interesting read. I loved the story.,5.0,2026-01-08T17:00:00,positive,3
+357,114,B019,Interesting but the pacing was slow.,2.5,2025-08-09T04:00:00,neutral,0
+358,115,B006,Excellent and interesting read. I loved the story.,5.0,2025-04-11T12:00:00,positive,3
+359,115,B012,Wonderful book. I enjoyed it and recommend it.,3.7,2025-04-12T01:00:00,positive,2
+360,115,B001,Wonderful book. I enjoyed it and recommend it.,3.1,2026-06-10T22:00:00,positive,2
+361,115,B001,Interesting but the pacing was slow.,3.8,2025-08-23T09:00:00,neutral,0
+362,115,B001,Excellent and interesting read. I loved the story.,3.8,2025-03-20T23:00:00,positive,3
+363,116,B019,Wonderful book. I enjoyed it and recommend it.,3.6,2025-04-26T10:00:00,positive,2
+364,116,B020,Wonderful book. I enjoyed it and recommend it.,4.1,2025-01-10T03:00:00,positive,2
+365,116,B013,Interesting but the pacing was slow.,4.5,2025-06-07T13:00:00,neutral,0
+366,116,B011,Confusing and disappointing in places.,3.4,2025-07-06T17:00:00,negative,-2
+367,116,B004,Great book with helpful ideas and an enjoyable narrative.,3.2,2026-03-26T05:00:00,positive,2
+368,118,B010,Excellent and interesting read. I loved the story.,3.4,2025-05-30T13:00:00,positive,3
+369,118,B010,Confusing and disappointing in places.,3.3,2026-01-25T13:00:00,negative,-2
+370,118,B015,Excellent and interesting read. I loved the story.,3.6,2025-09-10T10:00:00,positive,3
+371,118,B012,Confusing and disappointing in places.,3.7,2025-02-23T21:00:00,negative,-2
+372,118,B016,Excellent and interesting read. I loved the story.,3.9,2026-05-19T11:00:00,positive,3
+373,118,B005,Confusing and disappointing in places.,4.5,2026-01-16T07:00:00,negative,-2
+374,119,B020,Interesting but the pacing was slow.,5.0,2025-03-11T15:00:00,neutral,0
+375,120,B017,Excellent and interesting read. I loved the story.,4.8,2025-01-11T11:00:00,positive,3
+376,120,B006,Great book with helpful ideas and an enjoyable narrative.,4.0,2026-05-06T02:00:00,positive,2
+377,121,B006,Interesting but the pacing was slow.,3.5,2025-11-11T10:00:00,neutral,0
+378,121,B018,Interesting but the pacing was slow.,3.4,2025-05-07T00:00:00,neutral,0
+379,121,B014,Interesting but the pacing was slow.,2.6,2025-04-26T15:00:00,neutral,0
+380,121,B016,Excellent and interesting read. I loved the story.,4.0,2026-01-01T02:00:00,positive,3
+381,121,B006,Confusing and disappointing in places.,3.5,2025-10-13T04:00:00,negative,-2
+382,122,B010,Excellent and interesting read. I loved the story.,4.0,2025-08-13T22:00:00,positive,3
+383,122,B007,Great book with helpful ideas and an enjoyable narrative.,4.4,2025-09-06T06:00:00,positive,2
+384,122,B010,Excellent and interesting read. I loved the story.,3.9,2025-06-11T00:00:00,positive,3
+385,123,B007,Wonderful book. I enjoyed it and recommend it.,2.1,2026-02-15T19:00:00,positive,2
+386,123,B020,Confusing and disappointing in places.,3.9,2026-05-31T03:00:00,negative,-2
+387,123,B014,Great book with helpful ideas and an enjoyable narrative.,3.0,2026-05-04T18:00:00,positive,2
+388,124,B017,Interesting but the pacing was slow.,3.5,2025-03-31T15:00:00,neutral,0
+389,125,B001,Interesting but the pacing was slow.,5.0,2025-04-21T12:00:00,neutral,0
+390,125,B016,Confusing and disappointing in places.,4.0,2025-03-08T10:00:00,negative,-2
+391,125,B006,Excellent and interesting read. I loved the story.,3.6,2026-03-10T08:00:00,positive,3
+392,125,B002,Great book with helpful ideas and an enjoyable narrative.,4.1,2026-04-06T20:00:00,positive,2
+393,126,B007,Confusing and disappointing in places.,4.0,2025-11-11T16:00:00,negative,-2
+394,127,B019,Excellent and interesting read. I loved the story.,3.5,2026-03-01T21:00:00,positive,3
+395,127,B010,Confusing and disappointing in places.,4.5,2025-11-22T10:00:00,negative,-2
+396,127,B007,Excellent and interesting read. I loved the story.,3.7,2025-06-12T10:00:00,positive,3
+397,128,B003,Wonderful book. I enjoyed it and recommend it.,1.7,2026-05-11T19:00:00,positive,2
+398,128,B015,Interesting but the pacing was slow.,3.3,2026-06-15T16:00:00,neutral,0
+399,128,B003,Great book with helpful ideas and an enjoyable narrative.,4.2,2025-04-28T06:00:00,positive,2
+400,129,B019,Interesting but the pacing was slow.,3.7,2026-01-16T04:00:00,neutral,0
+401,129,B004,Excellent and interesting read. I loved the story.,4.0,2026-03-22T10:00:00,positive,3
+402,129,B013,Wonderful book. I enjoyed it and recommend it.,5.0,2025-01-05T14:00:00,positive,2
+403,130,B001,Great book with helpful ideas and an enjoyable narrative.,2.8,2025-05-05T11:00:00,positive,2
+404,130,B016,Excellent and interesting read. I loved the story.,3.8,2025-02-23T08:00:00,positive,3
+405,130,B007,Interesting but the pacing was slow.,2.8,2025-06-24T04:00:00,neutral,0
+406,130,B010,Excellent and interesting read. I loved the story.,3.9,2025-07-30T22:00:00,positive,3
+407,130,B013,Excellent and interesting read. I loved the story.,3.2,2025-08-10T14:00:00,positive,3
+408,131,B019,Excellent and interesting read. I loved the story.,3.0,2025-09-04T00:00:00,positive,3
+409,131,B013,Interesting but the pacing was slow.,3.6,2026-03-09T06:00:00,neutral,0
+410,131,B011,Wonderful book. I enjoyed it and recommend it.,2.9,2025-09-02T02:00:00,positive,2
+411,131,B014,Interesting but the pacing was slow.,5.0,2025-09-02T05:00:00,neutral,0
+412,132,B002,Confusing and disappointing in places.,4.8,2026-05-11T03:00:00,negative,-2
+413,132,B011,Confusing and disappointing in places.,4.3,2026-03-18T11:00:00,negative,-2
+414,133,B007,Interesting but the pacing was slow.,3.6,2025-02-11T06:00:00,neutral,0
+415,133,B020,Great book with helpful ideas and an enjoyable narrative.,3.8,2025-01-06T13:00:00,positive,2
+416,133,B013,Great book with helpful ideas and an enjoyable narrative.,3.8,2025-06-08T02:00:00,positive,2
+417,133,B004,Confusing and disappointing in places.,3.4,2025-02-02T15:00:00,negative,-2
+418,133,B020,Interesting but the pacing was slow.,4.0,2026-03-09T12:00:00,neutral,0
+419,133,B008,Wonderful book. I enjoyed it and recommend it.,3.7,2026-03-03T17:00:00,positive,2
+420,133,B007,Wonderful book. I enjoyed it and recommend it.,4.0,2026-04-18T17:00:00,positive,2
+421,134,B001,Interesting but the pacing was slow.,3.8,2026-06-15T14:00:00,neutral,0
+422,134,B003,Wonderful book. I enjoyed it and recommend it.,4.4,2026-05-09T22:00:00,positive,2
+423,134,B009,Excellent and interesting read. I loved the story.,4.2,2025-01-07T15:00:00,positive,3
+424,134,B015,Excellent and interesting read. I loved the story.,3.8,2025-01-01T04:00:00,positive,3
+425,134,B004,Great book with helpful ideas and an enjoyable narrative.,3.5,2025-05-07T13:00:00,positive,2
+426,135,B001,Wonderful book. I enjoyed it and recommend it.,3.6,2026-01-21T15:00:00,positive,2
+427,135,B006,Excellent and interesting read. I loved the story.,4.2,2025-02-16T00:00:00,positive,3
+428,135,B001,Great book with helpful ideas and an enjoyable narrative.,3.2,2025-08-26T23:00:00,positive,2
+429,135,B013,Interesting but the pacing was slow.,3.5,2026-01-29T13:00:00,neutral,0
+430,135,B014,Interesting but the pacing was slow.,5.0,2025-04-28T01:00:00,neutral,0
+431,136,B013,Great book with helpful ideas and an enjoyable narrative.,4.1,2025-03-15T10:00:00,positive,2
+432,136,B005,Interesting but the pacing was slow.,1.7,2025-05-01T15:00:00,neutral,0
+433,136,B004,Great book with helpful ideas and an enjoyable narrative.,4.5,2025-09-15T12:00:00,positive,2
+434,136,B018,Excellent and interesting read. I loved the story.,3.3,2026-03-18T15:00:00,positive,3
+435,137,B012,Wonderful book. I enjoyed it and recommend it.,3.8,2025-08-26T02:00:00,positive,2
+436,137,B012,Excellent and interesting read. I loved the story.,3.9,2025-02-16T00:00:00,positive,3
+437,138,B018,Great book with helpful ideas and an enjoyable narrative.,4.4,2026-01-27T12:00:00,positive,2
+438,138,B015,Interesting but the pacing was slow.,3.9,2026-03-18T17:00:00,neutral,0
+439,138,B015,Confusing and disappointing in places.,4.7,2025-10-22T17:00:00,negative,-2
+440,138,B015,Excellent and interesting read. I loved the story.,2.6,2026-04-24T23:00:00,positive,3
+441,138,B002,Great book with helpful ideas and an enjoyable narrative.,3.1,2025-10-15T21:00:00,positive,2
+442,138,B007,Interesting but the pacing was slow.,4.4,2025-10-30T10:00:00,neutral,0
+443,138,B019,Excellent and interesting read. I loved the story.,2.8,2025-07-03T14:00:00,positive,3
+444,138,B015,Wonderful book. I enjoyed it and recommend it.,4.7,2026-02-23T01:00:00,positive,2
+445,139,B008,Interesting but the pacing was slow.,3.2,2025-02-12T17:00:00,neutral,0
+446,139,B018,Excellent and interesting read. I loved the story.,2.1,2025-12-25T03:00:00,positive,3
+447,140,B005,Great book with helpful ideas and an enjoyable narrative.,3.1,2025-08-24T14:00:00,positive,2
+448,140,B006,Confusing and disappointing in places.,4.4,2025-09-24T09:00:00,negative,-2
+449,140,B004,Excellent and interesting read. I loved the story.,2.1,2025-07-22T05:00:00,positive,3
+450,140,B007,Wonderful book. I enjoyed it and recommend it.,3.5,2025-01-25T22:00:00,positive,2
+451,140,B004,Excellent and interesting read. I loved the story.,3.2,2025-12-11T18:00:00,positive,3
+452,141,B008,Interesting but the pacing was slow.,3.5,2025-08-04T13:00:00,neutral,0
+453,141,B007,Great book with helpful ideas and an enjoyable narrative.,3.5,2025-04-19T07:00:00,positive,2
+454,142,B010,Great book with helpful ideas and an enjoyable narrative.,3.7,2025-08-14T21:00:00,positive,2
+455,142,B015,Interesting but the pacing was slow.,2.6,2026-05-11T16:00:00,neutral,0
+456,143,B012,Interesting but the pacing was slow.,3.0,2026-05-16T19:00:00,neutral,0
+457,143,B009,Excellent and interesting read. I loved the story.,2.6,2025-12-04T04:00:00,positive,3
+458,144,B006,Wonderful book. I enjoyed it and recommend it.,2.8,2025-03-20T02:00:00,positive,2
+459,145,B008,Confusing and disappointing in places.,3.5,2025-01-14T05:00:00,negative,-2
+460,145,B016,Confusing and disappointing in places.,4.0,2025-05-19T05:00:00,negative,-2
+461,146,B003,Confusing and disappointing in places.,2.4,2025-01-01T10:00:00,negative,-2
+462,146,B003,Wonderful book. I enjoyed it and recommend it.,4.3,2026-04-23T21:00:00,positive,2
+463,146,B016,Interesting but the pacing was slow.,4.7,2025-07-15T12:00:00,neutral,0
+464,147,B011,Excellent and interesting read. I loved the story.,4.3,2026-04-11T15:00:00,positive,3
+465,147,B018,Excellent and interesting read. I loved the story.,2.0,2025-05-15T02:00:00,positive,3
+466,147,B010,Interesting but the pacing was slow.,3.9,2025-07-18T20:00:00,neutral,0
+467,147,B007,Wonderful book. I enjoyed it and recommend it.,4.8,2025-01-15T21:00:00,positive,2
+468,147,B013,Excellent and interesting read. I loved the story.,4.1,2025-10-10T19:00:00,positive,3
+469,147,B009,Confusing and disappointing in places.,3.4,2025-11-15T08:00:00,negative,-2
+470,147,B020,Excellent and interesting read. I loved the story.,4.3,2025-03-30T18:00:00,positive,3
+471,147,B007,Interesting but the pacing was slow.,3.8,2025-01-21T05:00:00,neutral,0
+472,148,B014,Great book with helpful ideas and an enjoyable narrative.,4.1,2025-10-23T06:00:00,positive,2
+473,150,B008,Great book with helpful ideas and an enjoyable narrative.,3.7,2025-01-28T07:00:00,positive,2
+474,150,B017,Great book with helpful ideas and an enjoyable narrative.,2.5,2026-02-12T02:00:00,positive,2
+475,150,B004,Confusing and disappointing in places.,3.7,2026-05-08T01:00:00,negative,-2
+476,151,B010,Excellent and interesting read. I loved the story.,2.9,2025-02-07T17:00:00,positive,3
+477,151,B010,Excellent and interesting read. I loved the story.,2.8,2025-02-11T02:00:00,positive,3
+478,151,B018,Interesting but the pacing was slow.,5.0,2026-01-27T16:00:00,neutral,0
+479,152,B017,Confusing and disappointing in places.,4.1,2025-02-20T11:00:00,negative,-2
+480,152,B007,Wonderful book. I enjoyed it and recommend it.,2.0,2025-10-09T23:00:00,positive,2
+481,152,B005,Great book with helpful ideas and an enjoyable narrative.,4.6,2025-05-13T08:00:00,positive,2
+482,152,B005,Great book with helpful ideas and an enjoyable narrative.,3.1,2026-04-01T04:00:00,positive,2
+483,153,B020,Confusing and disappointing in places.,3.4,2025-11-22T16:00:00,negative,-2
+484,153,B002,Great book with helpful ideas and an enjoyable narrative.,3.9,2026-05-22T14:00:00,positive,2
+485,153,B011,Confusing and disappointing in places.,2.6,2026-02-23T00:00:00,negative,-2
+486,153,B004,Great book with helpful ideas and an enjoyable narrative.,3.4,2025-07-17T05:00:00,positive,2
+487,153,B012,Confusing and disappointing in places.,4.6,2025-11-27T04:00:00,negative,-2
+488,154,B017,Excellent and interesting read. I loved the story.,3.8,2025-05-26T07:00:00,positive,3
+489,155,B008,Wonderful book. I enjoyed it and recommend it.,3.9,2025-06-08T23:00:00,positive,2
+490,155,B004,Great book with helpful ideas and an enjoyable narrative.,2.4,2025-10-27T12:00:00,positive,2
+491,156,B009,Great book with helpful ideas and an enjoyable narrative.,4.3,2025-03-23T01:00:00,positive,2
+492,156,B018,Great book with helpful ideas and an enjoyable narrative.,3.5,2025-02-11T19:00:00,positive,2
+493,156,B016,Great book with helpful ideas and an enjoyable narrative.,3.1,2025-03-07T04:00:00,positive,2
+494,156,B014,Great book with helpful ideas and an enjoyable narrative.,3.8,2025-03-16T06:00:00,positive,2
+495,157,B020,Confusing and disappointing in places.,4.8,2026-06-06T15:00:00,negative,-2
+496,158,B012,Confusing and disappointing in places.,3.7,2026-02-23T11:00:00,negative,-2
+497,158,B010,Interesting but the pacing was slow.,5.0,2025-10-08T00:00:00,neutral,0
+498,158,B007,Great book with helpful ideas and an enjoyable narrative.,3.2,2025-11-30T17:00:00,positive,2
+499,158,B007,Great book with helpful ideas and an enjoyable narrative.,3.5,2026-05-31T14:00:00,positive,2
+500,158,B008,Excellent and interesting read. I loved the story.,2.7,2026-05-14T07:00:00,positive,3
+501,158,B002,Excellent and interesting read. I loved the story.,2.0,2025-09-19T19:00:00,positive,3
+502,159,B011,Excellent and interesting read. I loved the story.,2.8,2026-04-25T19:00:00,positive,3
+503,159,B020,Confusing and disappointing in places.,4.5,2025-01-22T12:00:00,negative,-2
+504,159,B014,Great book with helpful ideas and an enjoyable narrative.,3.1,2025-01-20T00:00:00,positive,2
+505,159,B012,Great book with helpful ideas and an enjoyable narrative.,2.8,2025-12-30T22:00:00,positive,2
+506,159,B018,Great book with helpful ideas and an enjoyable narrative.,3.9,2025-11-19T07:00:00,positive,2
+507,159,B014,Confusing and disappointing in places.,2.6,2026-06-13T03:00:00,negative,-2
+508,160,B006,Confusing and disappointing in places.,4.0,2025-11-04T07:00:00,negative,-2
+509,160,B006,Excellent and interesting read. I loved the story.,3.8,2025-11-28T01:00:00,positive,3
+510,160,B009,Great book with helpful ideas and an enjoyable narrative.,1.7,2025-07-05T11:00:00,positive,2
+511,160,B006,Confusing and disappointing in places.,4.2,2026-04-27T01:00:00,negative,-2
+512,160,B006,Excellent and interesting read. I loved the story.,4.9,2025-02-17T17:00:00,positive,3
+513,160,B019,Confusing and disappointing in places.,2.9,2025-12-24T07:00:00,negative,-2
+514,160,B006,Confusing and disappointing in places.,2.7,2025-05-18T19:00:00,negative,-2
+515,160,B001,Wonderful book. I enjoyed it and recommend it.,5.0,2025-04-09T15:00:00,positive,2
+516,161,B014,Excellent and interesting read. I loved the story.,3.2,2025-02-19T06:00:00,positive,3
+517,162,B014,Great book with helpful ideas and an enjoyable narrative.,3.6,2026-06-01T05:00:00,positive,2
+518,162,B007,Interesting but the pacing was slow.,3.7,2025-05-20T23:00:00,neutral,0
+519,162,B004,Confusing and disappointing in places.,5.0,2025-03-10T01:00:00,negative,-2
+520,162,B007,Interesting but the pacing was slow.,4.1,2026-02-05T18:00:00,neutral,0
+521,162,B016,Great book with helpful ideas and an enjoyable narrative.,4.8,2025-05-24T12:00:00,positive,2
+522,163,B015,Wonderful book. I enjoyed it and recommend it.,3.4,2026-05-14T09:00:00,positive,2
+523,163,B005,Confusing and disappointing in places.,3.9,2025-03-27T00:00:00,negative,-2
+524,163,B012,Confusing and disappointing in places.,4.1,2025-08-15T18:00:00,negative,-2
+525,163,B018,Excellent and interesting read. I loved the story.,4.3,2026-01-20T19:00:00,positive,3
+526,163,B014,Confusing and disappointing in places.,5.0,2026-03-08T12:00:00,negative,-2
+527,163,B002,Confusing and disappointing in places.,3.9,2026-04-17T18:00:00,negative,-2
+528,163,B020,Great book with helpful ideas and an enjoyable narrative.,4.4,2026-03-19T21:00:00,positive,2
+529,163,B018,Confusing and disappointing in places.,4.5,2025-01-25T20:00:00,negative,-2
+530,163,B020,Confusing and disappointing in places.,4.7,2025-12-19T11:00:00,negative,-2
+531,164,B006,Excellent and interesting read. I loved the story.,3.2,2025-08-22T10:00:00,positive,3
+532,164,B009,Great book with helpful ideas and an enjoyable narrative.,5.0,2025-10-28T19:00:00,positive,2
+533,165,B004,Wonderful book. I enjoyed it and recommend it.,3.3,2025-09-10T17:00:00,positive,2
+534,165,B017,Great book with helpful ideas and an enjoyable narrative.,3.7,2026-03-25T15:00:00,positive,2
+535,165,B016,Interesting but the pacing was slow.,4.7,2026-05-04T22:00:00,neutral,0
+536,165,B019,Wonderful book. I enjoyed it and recommend it.,3.3,2025-11-08T10:00:00,positive,2
+537,165,B016,Interesting but the pacing was slow.,4.6,2025-11-19T00:00:00,neutral,0
+538,166,B003,Interesting but the pacing was slow.,5.0,2026-02-01T13:00:00,neutral,0
+539,166,B003,Confusing and disappointing in places.,4.0,2025-04-08T05:00:00,negative,-2
+540,166,B015,Wonderful book. I enjoyed it and recommend it.,3.1,2026-01-19T02:00:00,positive,2
+541,166,B003,Great book with helpful ideas and an enjoyable narrative.,3.8,2026-05-26T05:00:00,positive,2
+542,166,B012,Excellent and interesting read. I loved the story.,2.9,2025-07-01T16:00:00,positive,3
+543,166,B008,Great book with helpful ideas and an enjoyable narrative.,3.6,2025-05-04T09:00:00,positive,2
+544,166,B010,Confusing and disappointing in places.,5.0,2025-03-09T10:00:00,negative,-2
+545,167,B014,Excellent and interesting read. I loved the story.,2.6,2025-02-26T16:00:00,positive,3
+546,168,B017,Confusing and disappointing in places.,3.2,2025-08-17T02:00:00,negative,-2
+547,168,B015,Excellent and interesting read. I loved the story.,3.6,2025-10-19T17:00:00,positive,3
+548,168,B018,Excellent and interesting read. I loved the story.,3.7,2025-04-22T03:00:00,positive,3
+549,169,B013,Great book with helpful ideas and an enjoyable narrative.,4.3,2025-06-06T09:00:00,positive,2
+550,169,B009,Confusing and disappointing in places.,2.1,2025-12-10T21:00:00,negative,-2
+551,169,B013,Excellent and interesting read. I loved the story.,4.0,2025-06-14T04:00:00,positive,3
+552,169,B013,Wonderful book. I enjoyed it and recommend it.,5.0,2025-05-03T07:00:00,positive,2
+553,170,B007,Confusing and disappointing in places.,2.3,2025-01-22T13:00:00,negative,-2
+554,170,B011,Wonderful book. I enjoyed it and recommend it.,4.5,2025-12-12T10:00:00,positive,2
+555,170,B011,Confusing and disappointing in places.,4.1,2025-11-11T06:00:00,negative,-2
+556,170,B019,Wonderful book. I enjoyed it and recommend it.,3.9,2025-11-04T19:00:00,positive,2
+557,170,B004,Confusing and disappointing in places.,3.9,2025-06-10T21:00:00,negative,-2
+558,170,B009,Interesting but the pacing was slow.,3.7,2025-06-09T20:00:00,neutral,0
+559,170,B004,Confusing and disappointing in places.,3.3,2026-04-25T07:00:00,negative,-2
+560,170,B005,Excellent and interesting read. I loved the story.,3.0,2025-02-06T21:00:00,positive,3
+561,171,B002,Wonderful book. I enjoyed it and recommend it.,4.8,2025-12-13T22:00:00,positive,2
+562,171,B018,Excellent and interesting read. I loved the story.,5.0,2025-10-15T22:00:00,positive,3
+563,171,B020,Confusing and disappointing in places.,4.1,2025-05-31T14:00:00,negative,-2
+564,171,B002,Excellent and interesting read. I loved the story.,3.8,2026-01-07T14:00:00,positive,3
+565,172,B018,Interesting but the pacing was slow.,3.6,2025-06-23T11:00:00,neutral,0
+566,172,B020,Great book with helpful ideas and an enjoyable narrative.,3.9,2026-06-17T00:00:00,positive,2
+567,172,B004,Wonderful book. I enjoyed it and recommend it.,2.6,2025-03-24T10:00:00,positive,2
+568,172,B020,Interesting but the pacing was slow.,4.2,2026-03-11T13:00:00,neutral,0
+569,172,B005,Wonderful book. I enjoyed it and recommend it.,3.3,2025-04-20T07:00:00,positive,2
+570,173,B015,Great book with helpful ideas and an enjoyable narrative.,2.2,2025-12-05T21:00:00,positive,2
+571,173,B017,Excellent and interesting read. I loved the story.,2.3,2025-07-24T23:00:00,positive,3
+572,173,B001,Excellent and interesting read. I loved the story.,2.9,2025-01-04T13:00:00,positive,3
+573,173,B004,Interesting but the pacing was slow.,3.7,2025-07-13T22:00:00,neutral,0
+574,174,B002,Interesting but the pacing was slow.,2.3,2025-07-14T07:00:00,neutral,0
+575,174,B002,Excellent and interesting read. I loved the story.,4.2,2025-06-26T04:00:00,positive,3
+576,174,B018,Excellent and interesting read. I loved the story.,3.2,2025-06-13T15:00:00,positive,3
+577,175,B001,Great book with helpful ideas and an enjoyable narrative.,4.5,2025-08-23T22:00:00,positive,2
+578,175,B003,Confusing and disappointing in places.,3.5,2025-03-25T16:00:00,negative,-2
+579,176,B002,Interesting but the pacing was slow.,3.6,2025-05-12T10:00:00,neutral,0
+580,176,B004,Excellent and interesting read. I loved the story.,4.8,2025-02-27T23:00:00,positive,3
+581,176,B005,Great book with helpful ideas and an enjoyable narrative.,2.8,2025-09-25T07:00:00,positive,2
+582,177,B002,Excellent and interesting read. I loved the story.,4.5,2025-10-20T14:00:00,positive,3
+583,177,B009,Great book with helpful ideas and an enjoyable narrative.,2.7,2025-09-16T06:00:00,positive,2
+584,177,B020,Confusing and disappointing in places.,4.3,2026-04-14T12:00:00,negative,-2
+585,177,B002,Interesting but the pacing was slow.,4.6,2025-01-01T09:00:00,neutral,0
+586,178,B018,Interesting but the pacing was slow.,2.5,2026-05-06T06:00:00,neutral,0
+587,179,B002,Confusing and disappointing in places.,4.9,2026-02-22T22:00:00,negative,-2
+588,179,B001,Excellent and interesting read. I loved the story.,2.5,2025-06-09T22:00:00,positive,3
+589,179,B005,Great book with helpful ideas and an enjoyable narrative.,3.1,2025-07-15T00:00:00,positive,2
+590,179,B016,Excellent and interesting read. I loved the story.,2.6,2026-05-15T02:00:00,positive,3
+591,179,B011,Confusing and disappointing in places.,2.6,2026-04-11T12:00:00,negative,-2
+592,179,B014,Confusing and disappointing in places.,4.0,2025-02-05T10:00:00,negative,-2
+593,180,B001,Wonderful book. I enjoyed it and recommend it.,4.8,2026-02-02T17:00:00,positive,2
+594,180,B016,Confusing and disappointing in places.,3.4,2025-06-08T02:00:00,negative,-2
+595,180,B018,Wonderful book. I enjoyed it and recommend it.,4.1,2025-06-30T12:00:00,positive,2
+596,180,B007,Wonderful book. I enjoyed it and recommend it.,3.8,2025-01-25T14:00:00,positive,2
+597,181,B002,Great book with helpful ideas and an enjoyable narrative.,3.4,2025-07-09T18:00:00,positive,2
+598,181,B018,Interesting but the pacing was slow.,4.9,2026-01-16T01:00:00,neutral,0
+599,181,B012,Great book with helpful ideas and an enjoyable narrative.,3.1,2025-01-10T09:00:00,positive,2
+600,181,B009,Great book with helpful ideas and an enjoyable narrative.,3.8,2025-08-08T03:00:00,positive,2
+601,181,B006,Wonderful book. I enjoyed it and recommend it.,2.8,2026-06-07T04:00:00,positive,2
+602,182,B010,Excellent and interesting read. I loved the story.,4.1,2025-03-28T22:00:00,positive,3
+603,184,B006,Confusing and disappointing in places.,5.0,2026-01-25T00:00:00,negative,-2
+604,185,B006,Wonderful book. I enjoyed it and recommend it.,3.5,2025-08-23T02:00:00,positive,2
+605,185,B011,Excellent and interesting read. I loved the story.,3.8,2025-08-30T00:00:00,positive,3
+606,186,B004,Confusing and disappointing in places.,3.9,2026-02-19T08:00:00,negative,-2
+607,186,B016,Excellent and interesting read. I loved the story.,3.9,2025-11-03T11:00:00,positive,3
+608,187,B019,Interesting but the pacing was slow.,3.9,2026-06-09T17:00:00,neutral,0
+609,187,B017,Excellent and interesting read. I loved the story.,3.1,2025-07-18T09:00:00,positive,3
+610,187,B007,Confusing and disappointing in places.,4.6,2025-01-26T16:00:00,negative,-2
+611,187,B009,Wonderful book. I enjoyed it and recommend it.,4.5,2026-05-15T13:00:00,positive,2
+612,187,B013,Confusing and disappointing in places.,3.3,2026-06-03T02:00:00,negative,-2
+613,187,B012,Confusing and disappointing in places.,3.7,2025-10-01T04:00:00,negative,-2
+614,188,B014,Confusing and disappointing in places.,3.5,2025-08-13T14:00:00,negative,-2
+615,188,B007,Excellent and interesting read. I loved the story.,3.5,2026-06-17T21:00:00,positive,3
+616,189,B004,Confusing and disappointing in places.,3.9,2025-02-28T13:00:00,negative,-2
+617,189,B018,Great book with helpful ideas and an enjoyable narrative.,3.1,2025-02-01T10:00:00,positive,2
+618,189,B008,Confusing and disappointing in places.,2.7,2025-03-26T03:00:00,negative,-2
+619,189,B012,Interesting but the pacing was slow.,3.1,2025-06-05T01:00:00,neutral,0
+620,189,B004,Interesting but the pacing was slow.,4.9,2026-01-01T21:00:00,neutral,0
+621,190,B019,Interesting but the pacing was slow.,3.5,2026-02-15T13:00:00,neutral,0
+622,190,B018,Confusing and disappointing in places.,3.9,2025-02-07T02:00:00,negative,-2
+623,190,B017,Interesting but the pacing was slow.,4.4,2026-02-05T06:00:00,neutral,0
+624,191,B014,Wonderful book. I enjoyed it and recommend it.,3.6,2026-05-14T10:00:00,positive,2
+625,191,B018,Wonderful book. I enjoyed it and recommend it.,3.8,2025-12-18T19:00:00,positive,2
+626,191,B020,Interesting but the pacing was slow.,4.7,2025-08-25T10:00:00,neutral,0
+627,191,B018,Confusing and disappointing in places.,3.5,2025-09-18T12:00:00,negative,-2
+628,192,B016,Confusing and disappointing in places.,2.5,2025-12-03T05:00:00,negative,-2
+629,192,B016,Interesting but the pacing was slow.,3.0,2025-01-22T03:00:00,neutral,0
+630,192,B010,Great book with helpful ideas and an enjoyable narrative.,2.8,2025-09-21T13:00:00,positive,2
+631,193,B010,Excellent and interesting read. I loved the story.,2.7,2026-04-14T12:00:00,positive,3
+632,193,B005,Interesting but the pacing was slow.,3.3,2025-02-07T14:00:00,neutral,0
+633,193,B019,Interesting but the pacing was slow.,2.7,2025-12-13T13:00:00,neutral,0
+634,193,B012,Interesting but the pacing was slow.,4.8,2025-12-15T03:00:00,neutral,0
+635,194,B007,Excellent and interesting read. I loved the story.,4.2,2025-12-08T08:00:00,positive,3
+636,194,B005,Interesting but the pacing was slow.,4.7,2025-01-05T03:00:00,neutral,0
+637,194,B003,Wonderful book. I enjoyed it and recommend it.,4.7,2026-06-06T07:00:00,positive,2
+638,195,B006,Interesting but the pacing was slow.,4.4,2025-05-31T23:00:00,neutral,0
+639,195,B006,Excellent and interesting read. I loved the story.,5.0,2025-09-16T00:00:00,positive,3
+640,195,B003,Interesting but the pacing was slow.,3.1,2026-04-15T16:00:00,neutral,0
+641,196,B013,Excellent and interesting read. I loved the story.,4.6,2025-07-07T20:00:00,positive,3
+642,196,B013,Interesting but the pacing was slow.,3.8,2025-12-16T00:00:00,neutral,0
+643,196,B012,Confusing and disappointing in places.,3.6,2025-07-24T20:00:00,negative,-2
+644,196,B004,Excellent and interesting read. I loved the story.,3.9,2025-01-17T22:00:00,positive,3
+645,197,B020,Confusing and disappointing in places.,4.2,2025-01-07T15:00:00,negative,-2
+646,197,B004,Excellent and interesting read. I loved the story.,3.5,2026-04-09T17:00:00,positive,3
+647,197,B010,Great book with helpful ideas and an enjoyable narrative.,3.2,2025-08-28T23:00:00,positive,2
+648,198,B015,Wonderful book. I enjoyed it and recommend it.,4.7,2026-03-22T07:00:00,positive,2
+649,198,B010,Great book with helpful ideas and an enjoyable narrative.,4.0,2026-04-22T02:00:00,positive,2
+650,198,B015,Great book with helpful ideas and an enjoyable narrative.,4.6,2025-04-26T17:00:00,positive,2
+651,199,B020,Excellent and interesting read. I loved the story.,3.2,2025-07-30T04:00:00,positive,3
+652,199,B018,Wonderful book. I enjoyed it and recommend it.,3.0,2026-06-15T04:00:00,positive,2
+653,199,B019,Wonderful book. I enjoyed it and recommend it.,2.9,2025-01-25T23:00:00,positive,2
+654,199,B006,Interesting but the pacing was slow.,3.7,2026-05-04T09:00:00,neutral,0
+655,199,B018,Wonderful book. I enjoyed it and recommend it.,4.0,2026-04-26T01:00:00,positive,2
+656,199,B014,Wonderful book. I enjoyed it and recommend it.,4.7,2026-01-22T11:00:00,positive,2
+657,201,B008,Interesting but the pacing was slow.,3.0,2025-02-11T12:00:00,neutral,0
+658,201,B014,Wonderful book. I enjoyed it and recommend it.,2.9,2025-10-10T10:00:00,positive,2
+659,201,B009,Excellent and interesting read. I loved the story.,2.6,2025-03-05T21:00:00,positive,3
+660,201,B006,Interesting but the pacing was slow.,2.7,2025-10-26T07:00:00,neutral,0
+661,202,B013,Excellent and interesting read. I loved the story.,3.2,2026-06-22T00:00:00,positive,3
+662,202,B007,Great book with helpful ideas and an enjoyable narrative.,4.1,2025-01-31T18:00:00,positive,2
+663,203,B014,Great book with helpful ideas and an enjoyable narrative.,4.5,2025-02-17T16:00:00,positive,2
+664,203,B014,Great book with helpful ideas and an enjoyable narrative.,3.6,2026-04-12T02:00:00,positive,2
+665,204,B012,Wonderful book. I enjoyed it and recommend it.,2.7,2026-01-10T18:00:00,positive,2
+666,204,B003,Great book with helpful ideas and an enjoyable narrative.,3.3,2025-07-19T05:00:00,positive,2
+667,204,B009,Wonderful book. I enjoyed it and recommend it.,4.2,2025-02-26T13:00:00,positive,2
+668,204,B001,Great book with helpful ideas and an enjoyable narrative.,4.4,2026-03-04T00:00:00,positive,2
+669,205,B010,Wonderful book. I enjoyed it and recommend it.,3.6,2025-06-18T15:00:00,positive,2
+670,205,B011,Excellent and interesting read. I loved the story.,2.8,2026-03-21T19:00:00,positive,3
+671,205,B006,Great book with helpful ideas and an enjoyable narrative.,3.4,2025-04-30T12:00:00,positive,2
+672,205,B018,Wonderful book. I enjoyed it and recommend it.,3.4,2025-02-27T19:00:00,positive,2
+673,205,B016,Interesting but the pacing was slow.,3.3,2025-05-28T01:00:00,neutral,0
+674,206,B003,Great book with helpful ideas and an enjoyable narrative.,5.0,2025-09-27T00:00:00,positive,2
+675,206,B007,Interesting but the pacing was slow.,3.4,2025-11-18T11:00:00,neutral,0
+676,206,B006,Great book with helpful ideas and an enjoyable narrative.,2.9,2025-07-29T05:00:00,positive,2
+677,206,B017,Wonderful book. I enjoyed it and recommend it.,4.5,2025-01-01T12:00:00,positive,2
+678,206,B016,Great book with helpful ideas and an enjoyable narrative.,3.1,2026-05-27T21:00:00,positive,2
+679,207,B012,Great book with helpful ideas and an enjoyable narrative.,3.7,2025-05-28T02:00:00,positive,2
+680,207,B007,Confusing and disappointing in places.,4.5,2025-12-24T10:00:00,negative,-2
+681,207,B016,Wonderful book. I enjoyed it and recommend it.,3.8,2025-06-03T23:00:00,positive,2
+682,208,B017,Great book with helpful ideas and an enjoyable narrative.,3.4,2025-02-06T22:00:00,positive,2
+683,208,B017,Confusing and disappointing in places.,4.0,2026-01-25T02:00:00,negative,-2
+684,209,B010,Wonderful book. I enjoyed it and recommend it.,3.0,2025-02-09T00:00:00,positive,2
+685,209,B016,Interesting but the pacing was slow.,2.5,2025-07-06T16:00:00,neutral,0
+686,209,B020,Interesting but the pacing was slow.,2.8,2025-06-18T08:00:00,neutral,0
+687,209,B005,Wonderful book. I enjoyed it and recommend it.,3.5,2025-08-16T10:00:00,positive,2
+688,210,B019,Interesting but the pacing was slow.,4.3,2025-02-08T02:00:00,neutral,0
+689,210,B011,Confusing and disappointing in places.,4.2,2025-08-08T13:00:00,negative,-2
+690,210,B013,Confusing and disappointing in places.,4.5,2025-10-18T02:00:00,negative,-2
+691,210,B007,Confusing and disappointing in places.,5.0,2025-03-03T19:00:00,negative,-2
+692,211,B014,Interesting but the pacing was slow.,3.6,2026-03-29T08:00:00,neutral,0
+693,212,B020,Great book with helpful ideas and an enjoyable narrative.,3.5,2026-01-17T20:00:00,positive,2
+694,212,B007,Excellent and interesting read. I loved the story.,1.1,2025-04-29T10:00:00,positive,3
+695,213,B007,Excellent and interesting read. I loved the story.,3.2,2025-01-08T20:00:00,positive,3
+696,214,B003,Great book with helpful ideas and an enjoyable narrative.,2.7,2025-11-07T07:00:00,positive,2
+697,216,B010,Confusing and disappointing in places.,3.7,2025-02-11T06:00:00,negative,-2
+698,216,B013,Excellent and interesting read. I loved the story.,4.0,2026-03-02T15:00:00,positive,3
+699,216,B017,Confusing and disappointing in places.,3.7,2025-05-23T01:00:00,negative,-2
+700,217,B005,Interesting but the pacing was slow.,3.3,2025-01-18T03:00:00,neutral,0
+701,217,B018,Excellent and interesting read. I loved the story.,1.9,2026-01-11T12:00:00,positive,3
+702,219,B005,Excellent and interesting read. I loved the story.,3.4,2025-07-20T16:00:00,positive,3
+703,219,B019,Great book with helpful ideas and an enjoyable narrative.,3.3,2026-05-19T09:00:00,positive,2
+704,219,B006,Wonderful book. I enjoyed it and recommend it.,4.1,2025-01-26T00:00:00,positive,2
+705,220,B003,Wonderful book. I enjoyed it and recommend it.,4.1,2025-01-26T02:00:00,positive,2
+706,220,B006,Interesting but the pacing was slow.,3.4,2026-05-13T21:00:00,neutral,0
+707,220,B007,Wonderful book. I enjoyed it and recommend it.,4.2,2025-03-09T10:00:00,positive,2
+708,220,B006,Wonderful book. I enjoyed it and recommend it.,4.6,2026-05-20T20:00:00,positive,2
+709,221,B007,Interesting but the pacing was slow.,4.2,2025-04-27T19:00:00,neutral,0
+710,222,B004,Interesting but the pacing was slow.,2.3,2026-05-22T17:00:00,neutral,0
+711,223,B007,Wonderful book. I enjoyed it and recommend it.,4.1,2025-09-06T20:00:00,positive,2
+712,223,B013,Great book with helpful ideas and an enjoyable narrative.,4.0,2025-06-17T06:00:00,positive,2
+713,224,B001,Excellent and interesting read. I loved the story.,2.4,2025-01-03T12:00:00,positive,3
+714,224,B014,Excellent and interesting read. I loved the story.,3.4,2025-02-15T11:00:00,positive,3
+715,224,B015,Interesting but the pacing was slow.,3.3,2025-08-21T19:00:00,neutral,0
+716,224,B009,Wonderful book. I enjoyed it and recommend it.,5.0,2025-02-27T12:00:00,positive,2
+717,224,B015,Interesting but the pacing was slow.,1.8,2025-11-05T04:00:00,neutral,0
+718,225,B005,Interesting but the pacing was slow.,2.6,2026-06-03T19:00:00,neutral,0
+719,225,B016,Confusing and disappointing in places.,4.4,2025-07-08T13:00:00,negative,-2
+720,225,B006,Excellent and interesting read. I loved the story.,3.7,2025-12-09T19:00:00,positive,3
+721,225,B006,Confusing and disappointing in places.,4.2,2025-07-11T03:00:00,negative,-2
+722,225,B016,Wonderful book. I enjoyed it and recommend it.,4.2,2026-06-14T20:00:00,positive,2
+723,225,B006,Wonderful book. I enjoyed it and recommend it.,4.7,2026-05-22T17:00:00,positive,2
+724,226,B014,Great book with helpful ideas and an enjoyable narrative.,3.2,2025-05-30T06:00:00,positive,2
+725,227,B014,Wonderful book. I enjoyed it and recommend it.,5.0,2025-02-12T08:00:00,positive,2
+726,227,B006,Great book with helpful ideas and an enjoyable narrative.,2.0,2025-05-29T08:00:00,positive,2
+727,227,B015,Wonderful book. I enjoyed it and recommend it.,3.9,2026-03-14T01:00:00,positive,2
+728,228,B017,Great book with helpful ideas and an enjoyable narrative.,5.0,2026-01-26T22:00:00,positive,2
+729,228,B008,Excellent and interesting read. I loved the story.,2.3,2025-08-20T18:00:00,positive,3
+730,228,B013,Wonderful book. I enjoyed it and recommend it.,2.3,2025-01-16T05:00:00,positive,2
+731,228,B007,Excellent and interesting read. I loved the story.,4.2,2026-01-31T14:00:00,positive,3
+732,229,B019,Interesting but the pacing was slow.,3.2,2026-04-14T12:00:00,neutral,0
+733,229,B015,Confusing and disappointing in places.,3.2,2026-02-04T13:00:00,negative,-2
+734,229,B005,Wonderful book. I enjoyed it and recommend it.,3.4,2025-05-25T12:00:00,positive,2
+735,229,B003,Excellent and interesting read. I loved the story.,3.2,2026-01-22T00:00:00,positive,3
+736,231,B010,Interesting but the pacing was slow.,2.8,2025-02-20T02:00:00,neutral,0
+737,231,B014,Wonderful book. I enjoyed it and recommend it.,4.0,2025-09-04T02:00:00,positive,2
+738,231,B014,Excellent and interesting read. I loved the story.,5.0,2025-07-02T14:00:00,positive,3
+739,231,B014,Excellent and interesting read. I loved the story.,3.9,2025-08-21T14:00:00,positive,3
+740,232,B001,Interesting but the pacing was slow.,2.2,2026-06-12T04:00:00,neutral,0
+741,232,B005,Wonderful book. I enjoyed it and recommend it.,2.7,2025-03-14T01:00:00,positive,2
+742,232,B013,Interesting but the pacing was slow.,3.9,2026-02-17T07:00:00,neutral,0
+743,232,B003,Wonderful book. I enjoyed it and recommend it.,2.8,2025-09-05T10:00:00,positive,2
+744,233,B007,Excellent and interesting read. I loved the story.,3.2,2026-04-19T16:00:00,positive,3
+745,233,B009,Excellent and interesting read. I loved the story.,3.4,2026-04-01T21:00:00,positive,3
+746,233,B009,Great book with helpful ideas and an enjoyable narrative.,2.5,2025-11-19T08:00:00,positive,2
+747,233,B009,Interesting but the pacing was slow.,3.4,2025-01-01T02:00:00,neutral,0
+748,233,B005,Great book with helpful ideas and an enjoyable narrative.,3.0,2025-02-21T02:00:00,positive,2
+749,234,B019,Wonderful book. I enjoyed it and recommend it.,3.6,2025-08-10T09:00:00,positive,2
+750,234,B019,Wonderful book. I enjoyed it and recommend it.,5.0,2025-08-08T13:00:00,positive,2
+751,234,B017,Great book with helpful ideas and an enjoyable narrative.,4.4,2025-11-04T20:00:00,positive,2
+752,234,B019,Wonderful book. I enjoyed it and recommend it.,5.0,2025-12-11T19:00:00,positive,2
+753,234,B012,Interesting but the pacing was slow.,3.1,2026-01-03T11:00:00,neutral,0
+754,234,B014,Excellent and interesting read. I loved the story.,4.0,2025-12-15T04:00:00,positive,3
+755,234,B001,Great book with helpful ideas and an enjoyable narrative.,4.4,2026-05-28T08:00:00,positive,2
+756,235,B001,Wonderful book. I enjoyed it and recommend it.,4.8,2026-03-08T21:00:00,positive,2
+757,235,B002,Excellent and interesting read. I loved the story.,2.8,2026-02-28T16:00:00,positive,3
+758,235,B001,Great book with helpful ideas and an enjoyable narrative.,5.0,2026-03-10T09:00:00,positive,2
+759,235,B006,Excellent and interesting read. I loved the story.,3.6,2026-03-06T21:00:00,positive,3
+760,235,B006,Confusing and disappointing in places.,4.2,2025-05-25T14:00:00,negative,-2
+761,235,B007,Confusing and disappointing in places.,4.3,2026-04-20T00:00:00,negative,-2
+762,236,B004,Wonderful book. I enjoyed it and recommend it.,2.9,2026-04-27T05:00:00,positive,2
+763,236,B019,Confusing and disappointing in places.,4.2,2025-12-14T07:00:00,negative,-2
+764,237,B020,Excellent and interesting read. I loved the story.,4.0,2025-05-19T21:00:00,positive,3
+765,237,B018,Great book with helpful ideas and an enjoyable narrative.,3.7,2025-10-11T22:00:00,positive,2
+766,238,B010,Confusing and disappointing in places.,4.1,2025-05-03T00:00:00,negative,-2
+767,239,B018,Great book with helpful ideas and an enjoyable narrative.,3.8,2025-11-06T20:00:00,positive,2
+768,239,B020,Wonderful book. I enjoyed it and recommend it.,4.0,2025-11-25T08:00:00,positive,2
+769,239,B002,Confusing and disappointing in places.,3.9,2026-06-10T20:00:00,negative,-2
+770,240,B016,Great book with helpful ideas and an enjoyable narrative.,4.7,2025-03-07T13:00:00,positive,2
+771,240,B001,Confusing and disappointing in places.,4.1,2025-11-10T16:00:00,negative,-2
+772,240,B016,Great book with helpful ideas and an enjoyable narrative.,4.7,2026-01-26T12:00:00,positive,2
+773,241,B002,Confusing and disappointing in places.,4.0,2025-02-27T14:00:00,negative,-2
+774,241,B010,Wonderful book. I enjoyed it and recommend it.,3.1,2025-12-31T05:00:00,positive,2
+775,241,B008,Confusing and disappointing in places.,5.0,2026-04-17T08:00:00,negative,-2
+776,242,B018,Confusing and disappointing in places.,3.9,2025-07-02T23:00:00,negative,-2
+777,242,B013,Wonderful book. I enjoyed it and recommend it.,3.8,2025-07-19T03:00:00,positive,2
+778,242,B015,Excellent and interesting read. I loved the story.,3.8,2025-06-07T16:00:00,positive,3
+779,244,B004,Excellent and interesting read. I loved the story.,3.9,2025-02-28T12:00:00,positive,3
+780,244,B013,Wonderful book. I enjoyed it and recommend it.,3.7,2025-04-18T07:00:00,positive,2
+781,244,B019,Excellent and interesting read. I loved the story.,4.2,2025-01-14T21:00:00,positive,3
+782,244,B019,Confusing and disappointing in places.,3.7,2026-06-05T09:00:00,negative,-2
+783,245,B006,Confusing and disappointing in places.,4.0,2025-01-18T18:00:00,negative,-2
+784,245,B006,Excellent and interesting read. I loved the story.,4.0,2025-05-20T23:00:00,positive,3
+785,245,B014,Confusing and disappointing in places.,2.7,2026-05-11T07:00:00,negative,-2
+786,245,B006,Great book with helpful ideas and an enjoyable narrative.,5.0,2026-05-02T20:00:00,positive,2
+787,245,B011,Excellent and interesting read. I loved the story.,4.1,2025-12-09T05:00:00,positive,3
+788,245,B006,Confusing and disappointing in places.,4.1,2026-04-13T09:00:00,negative,-2
+789,246,B003,Excellent and interesting read. I loved the story.,4.4,2025-09-28T00:00:00,positive,3
+790,247,B007,Confusing and disappointing in places.,4.4,2025-05-13T01:00:00,negative,-2
+791,247,B010,Confusing and disappointing in places.,3.9,2025-02-14T15:00:00,negative,-2
+792,247,B018,Wonderful book. I enjoyed it and recommend it.,2.6,2026-03-20T09:00:00,positive,2
+793,247,B020,Interesting but the pacing was slow.,3.9,2025-08-17T18:00:00,neutral,0
+794,247,B014,Confusing and disappointing in places.,2.8,2025-04-20T04:00:00,negative,-2
+795,247,B007,Interesting but the pacing was slow.,3.7,2025-09-25T22:00:00,neutral,0
+796,247,B007,Wonderful book. I enjoyed it and recommend it.,3.8,2026-02-11T12:00:00,positive,2
+797,247,B001,Great book with helpful ideas and an enjoyable narrative.,3.8,2025-07-07T06:00:00,positive,2
+798,247,B011,Great book with helpful ideas and an enjoyable narrative.,3.4,2025-09-29T13:00:00,positive,2
+799,248,B013,Great book with helpful ideas and an enjoyable narrative.,2.9,2025-11-06T06:00:00,positive,2
+800,248,B017,Great book with helpful ideas and an enjoyable narrative.,4.5,2025-04-21T06:00:00,positive,2
+801,248,B001,Excellent and interesting read. I loved the story.,4.1,2025-07-22T08:00:00,positive,3
+802,248,B016,Interesting but the pacing was slow.,2.2,2025-12-22T10:00:00,neutral,0
+803,248,B018,Great book with helpful ideas and an enjoyable narrative.,4.4,2025-09-22T15:00:00,positive,2
+804,248,B014,Wonderful book. I enjoyed it and recommend it.,3.3,2025-02-17T04:00:00,positive,2
+805,248,B017,Confusing and disappointing in places.,4.6,2025-05-16T09:00:00,negative,-2
+806,249,B013,Interesting but the pacing was slow.,3.8,2026-04-26T20:00:00,neutral,0
+807,249,B013,Excellent and interesting read. I loved the story.,4.0,2025-03-20T05:00:00,positive,3
+808,249,B016,Interesting but the pacing was slow.,4.0,2025-05-03T16:00:00,neutral,0
+809,250,B002,Confusing and disappointing in places.,2.7,2025-04-23T15:00:00,negative,-2
+810,250,B007,Excellent and interesting read. I loved the story.,3.6,2025-07-06T05:00:00,positive,3
+811,250,B006,Wonderful book. I enjoyed it and recommend it.,2.5,2025-07-16T06:00:00,positive,2

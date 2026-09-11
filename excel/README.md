@@ -1,0 +1,1 @@
+Open the generated CSVs in Excel and build sheets: Book_Data, Customer_Data, Sales_Data, RFM_Analysis, Genre_Analysis, Recommendation_KPIs, Dashboard. Use XLOOKUP, SUMIFS, COUNTIFS, PivotTables and charts.

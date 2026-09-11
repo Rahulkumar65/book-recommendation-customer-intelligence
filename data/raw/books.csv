@@ -1,0 +1,21 @@
+book_id,title,author,genre,publisher,publication_date,language,description,price,rating,review_count
+B001,The Midnight Library,Matt Haig,Fiction,Demo Publishing,2000,en,choices possibilities meaning,646.6,3.54,2273
+B002,The Hobbit,J.R.R. Tolkien,Fantasy,Demo Publishing,2001,en,adventure friendship courage,370.42,3.7,859
+B003,Pride and Prejudice,Jane Austen,Romance,Demo Publishing,2002,en,relationships society impressions,672.69,4.75,732
+B004,Atomic Habits,James Clear,Self Help,Demo Publishing,2003,en,habits improvement consistency,612.34,3.54,787
+B005,Sapiens,Yuval Noah Harari,History,Demo Publishing,2004,en,human history civilization,352.05,4.21,237
+B006,The Alchemist,Paulo Coelho,Fiction,Demo Publishing,2005,en,dreams purpose growth,591.87,4.5,4484
+B007,Dune,Frank Herbert,Science Fiction,Demo Publishing,2006,en,politics ecology survival,492.66,4.13,2298
+B008,Educated,Tara Westover,Biography,Demo Publishing,2007,en,education family transformation,765.6,3.51,1327
+B009,Deep Work,Cal Newport,Productivity,Demo Publishing,2008,en,focus work distraction,687.7,3.98,1293
+B010,The Martian,Andy Weir,Science Fiction,Demo Publishing,2009,en,science engineering survival,349.72,4.57,857
+B011,The Book Thief,Markus Zusak,Historical Fiction,Demo Publishing,2010,en,books family wartime,263.92,3.64,2837
+B012,Thinking Fast and Slow,Daniel Kahneman,Psychology,Demo Publishing,2011,en,judgment decisions biases,621.61,4.63,3783
+B013,Ikigai,Hector Garcia,Self Help,Demo Publishing,2012,en,purpose routine meaning,574.36,4.86,3120
+B014,The Name of the Wind,Patrick Rothfuss,Fantasy,Demo Publishing,2013,en,music mystery adventure,254.16,3.91,2982
+B015,Project Hail Mary,Andy Weir,Science Fiction,Demo Publishing,2014,en,space science problem solving,603.15,4.49,395
+B016,Little Women,Louisa May Alcott,Fiction,Demo Publishing,2015,en,family growth ambition,661.88,4.58,673
+B017,The Psychology of Money,Morgan Housel,Finance,Demo Publishing,2016,en,wealth behavior decisions,797.72,4.71,3133
+B018,Good Omens,Terry Pratchett & Neil Gaiman,Fantasy,Demo Publishing,2017,en,humor unlikely allies,393.58,4.39,3008
+B019,The Silent Patient,Alex Michaelides,Thriller,Demo Publishing,2018,en,psychological mystery,312.86,4.0,2207
+B020,The Alchemist's Garden,Demo Author,Fantasy,Demo Publishing,2019,en,synthetic recommendation test,690.27,4.46,604

@@ -1,0 +1,251 @@
+user_id,recency,frequency,monetary,cluster,segment
+1,12,11,6597.3,2,High Value Readers
+2,76,8,5950.74,0,Frequent Readers
+3,104,6,3424.08,1,At Risk / Inactive
+4,60,3,2191.75,1,At Risk / Inactive
+5,123,7,4781.56,0,Frequent Readers
+6,214,5,4134.38,3,Occasional Readers
+7,153,5,2769.7400000000002,3,Occasional Readers
+8,12,9,8273.9,2,High Value Readers
+9,4,12,8560.31,2,High Value Readers
+10,20,10,7445.77,2,High Value Readers
+11,3,7,4387.79,0,Frequent Readers
+12,74,5,3758.81,1,At Risk / Inactive
+13,62,5,3839.08,1,At Risk / Inactive
+14,66,6,4643.08,0,Frequent Readers
+15,8,13,8789.24,2,High Value Readers
+16,2,8,4063.67,0,Frequent Readers
+17,22,7,4024.04,0,Frequent Readers
+18,61,12,7864.67,2,High Value Readers
+19,1,7,4156.04,0,Frequent Readers
+20,87,8,6185.52,0,Frequent Readers
+21,81,7,6742.4400000000005,0,Frequent Readers
+22,11,10,7576.099999999999,2,High Value Readers
+23,10,10,6332.53,2,High Value Readers
+24,52,11,7607.110000000001,2,High Value Readers
+25,126,9,6092.4,0,Frequent Readers
+26,155,5,3420.2200000000003,3,Occasional Readers
+27,8,7,5309.04,0,Frequent Readers
+28,114,4,2130.2000000000003,1,At Risk / Inactive
+29,47,9,6280.55,0,Frequent Readers
+30,80,12,7946.75,2,High Value Readers
+31,23,7,4534.05,0,Frequent Readers
+32,1,12,10151.79,2,High Value Readers
+33,34,6,3589.1800000000003,1,At Risk / Inactive
+34,102,2,962.0600000000001,1,At Risk / Inactive
+35,10,9,5440.49,0,Frequent Readers
+36,134,10,8367.6,2,High Value Readers
+37,58,5,3682.5,1,At Risk / Inactive
+38,78,8,4908.37,0,Frequent Readers
+39,85,8,5211.1,0,Frequent Readers
+40,37,9,6517.7,0,Frequent Readers
+41,39,7,5172.18,0,Frequent Readers
+42,6,7,5620.13,0,Frequent Readers
+43,183,9,6111.88,3,Occasional Readers
+44,32,10,7435.71,2,High Value Readers
+45,25,9,5683.51,0,Frequent Readers
+46,49,5,3666.62,1,At Risk / Inactive
+47,34,3,2645.57,1,At Risk / Inactive
+48,74,2,1487.99,1,At Risk / Inactive
+49,78,4,1987.7,1,At Risk / Inactive
+50,18,9,5299.860000000001,0,Frequent Readers
+51,107,5,2769.94,1,At Risk / Inactive
+52,239,6,3152.32,3,Occasional Readers
+53,43,13,8800.53,2,High Value Readers
+54,25,7,3712.54,0,Frequent Readers
+55,167,9,7651.610000000001,2,High Value Readers
+56,26,6,2870.16,1,At Risk / Inactive
+57,18,8,4956.43,0,Frequent Readers
+58,54,6,3016.82,1,At Risk / Inactive
+59,38,15,11176.62,2,High Value Readers
+60,8,11,8483.58,2,High Value Readers
+61,104,9,5549.31,0,Frequent Readers
+62,25,9,5510.87,0,Frequent Readers
+63,5,5,2612.98,1,At Risk / Inactive
+64,2,9,6688.56,0,Frequent Readers
+65,10,8,6165.12,0,Frequent Readers
+66,36,5,4898.25,1,At Risk / Inactive
+67,260,2,916.04,3,Occasional Readers
+68,23,7,5050.780000000001,0,Frequent Readers
+69,15,10,5964.72,0,Frequent Readers
+70,153,5,4446.97,3,Occasional Readers
+71,81,8,5492.9400000000005,0,Frequent Readers
+72,1,7,3860.27,0,Frequent Readers
+73,141,10,8829.54,2,High Value Readers
+74,81,8,4639.7,0,Frequent Readers
+75,6,12,7585.8,2,High Value Readers
+76,25,5,5004.78,1,At Risk / Inactive
+77,162,5,4047.82,3,Occasional Readers
+78,44,5,3010.13,1,At Risk / Inactive
+79,138,7,3876.28,3,Occasional Readers
+80,49,6,4106.79,1,At Risk / Inactive
+81,6,10,6367.99,2,High Value Readers
+82,25,8,4162.96,0,Frequent Readers
+83,31,9,7553.889999999999,2,High Value Readers
+84,27,12,8616.93,2,High Value Readers
+85,4,7,4375.9400000000005,0,Frequent Readers
+86,125,4,2290.16,1,At Risk / Inactive
+87,77,4,2276.16,1,At Risk / Inactive
+88,72,8,6924.67,0,Frequent Readers
+89,35,5,3976.1800000000003,1,At Risk / Inactive
+90,144,9,6710.030000000001,0,Frequent Readers
+91,86,4,3327.31,1,At Risk / Inactive
+92,93,6,3626.75,1,At Risk / Inactive
+93,12,9,5710.16,0,Frequent Readers
+94,89,8,3814.29,0,Frequent Readers
+95,54,9,8852.21,2,High Value Readers
+96,122,4,2912.86,1,At Risk / Inactive
+97,79,7,6412.84,0,Frequent Readers
+98,71,8,3959.76,0,Frequent Readers
+99,29,5,3614.77,1,At Risk / Inactive
+100,99,5,5163.91,1,At Risk / Inactive
+101,198,4,1882.8400000000001,3,Occasional Readers
+102,3,9,7225.63,2,High Value Readers
+103,28,7,4290.49,0,Frequent Readers
+104,41,7,5455.12,0,Frequent Readers
+105,69,8,5348.17,0,Frequent Readers
+106,72,6,3203.92,1,At Risk / Inactive
+107,8,11,7655.59,2,High Value Readers
+108,49,7,4665.1,0,Frequent Readers
+109,134,8,6084.22,0,Frequent Readers
+110,196,5,2247.04,3,Occasional Readers
+111,48,8,4713.93,0,Frequent Readers
+112,1,5,2470.26,1,At Risk / Inactive
+113,20,5,4299.07,1,At Risk / Inactive
+114,39,6,3085.12,1,At Risk / Inactive
+115,16,11,9119.11,2,High Value Readers
+116,42,9,7084.63,2,High Value Readers
+117,143,5,3703.45,3,Occasional Readers
+118,38,8,3897.9900000000002,0,Frequent Readers
+119,16,5,3296.89,1,At Risk / Inactive
+120,51,10,7413.63,2,High Value Readers
+121,30,13,9473.24,2,High Value Readers
+122,170,6,2987.3500000000004,3,Occasional Readers
+123,26,12,6357.48,2,High Value Readers
+124,118,4,2447.71,1,At Risk / Inactive
+125,30,10,7898.22,2,High Value Readers
+126,75,6,3279.98,1,At Risk / Inactive
+127,94,6,3754.8,1,At Risk / Inactive
+128,43,7,4229.1,0,Frequent Readers
+129,36,9,6817.26,0,Frequent Readers
+130,95,8,4106.87,0,Frequent Readers
+131,36,12,8038.12,2,High Value Readers
+132,39,8,3452.4100000000003,0,Frequent Readers
+133,69,8,6753.76,0,Frequent Readers
+134,48,5,2532.36,1,At Risk / Inactive
+135,3,5,3704.8500000000004,1,At Risk / Inactive
+136,29,14,9818.4,2,High Value Readers
+137,26,4,2423.1400000000003,1,At Risk / Inactive
+138,100,7,4666.79,0,Frequent Readers
+139,124,6,3093.44,1,At Risk / Inactive
+140,20,8,6425.9400000000005,0,Frequent Readers
+141,21,6,4770.280000000001,0,Frequent Readers
+142,8,7,5415.89,0,Frequent Readers
+143,41,8,5263.22,0,Frequent Readers
+144,53,7,6334.41,0,Frequent Readers
+145,4,12,9558.06,2,High Value Readers
+146,57,10,6447.56,2,High Value Readers
+147,76,6,3476.39,1,At Risk / Inactive
+148,63,3,1589.2,1,At Risk / Inactive
+149,96,5,3554.57,1,At Risk / Inactive
+150,12,10,5852.870000000001,0,Frequent Readers
+151,66,9,6200.13,0,Frequent Readers
+152,54,7,3918.36,0,Frequent Readers
+153,35,11,7223.98,2,High Value Readers
+154,414,3,1470.44,3,Occasional Readers
+155,170,5,3023.02,3,Occasional Readers
+156,53,7,4079.59,0,Frequent Readers
+157,20,5,2398.7,1,At Risk / Inactive
+158,43,7,5957.89,0,Frequent Readers
+159,13,10,3802.63,0,Frequent Readers
+160,61,9,6118.37,0,Frequent Readers
+161,46,5,2643.09,1,At Risk / Inactive
+162,25,8,4076.59,0,Frequent Readers
+163,21,9,4562.35,0,Frequent Readers
+164,150,5,4884.02,3,Occasional Readers
+165,10,11,8696.12,2,High Value Readers
+166,31,9,6837.43,0,Frequent Readers
+167,38,5,2685.9300000000003,1,At Risk / Inactive
+168,32,7,4309.13,0,Frequent Readers
+169,122,7,3537.43,1,At Risk / Inactive
+170,169,8,5437.29,3,Occasional Readers
+171,57,4,2516.56,1,At Risk / Inactive
+172,9,7,4211.2,0,Frequent Readers
+173,22,8,6120.08,0,Frequent Readers
+174,50,10,7436.02,2,High Value Readers
+175,41,5,3129.84,1,At Risk / Inactive
+176,51,12,7900.81,2,High Value Readers
+177,158,11,6214.88,2,High Value Readers
+178,35,9,5761.09,0,Frequent Readers
+179,25,10,5479.3,0,Frequent Readers
+180,164,7,5905.139999999999,3,Occasional Readers
+181,50,7,4948.58,0,Frequent Readers
+182,163,3,2692.9,3,Occasional Readers
+183,40,8,5867.52,0,Frequent Readers
+184,85,10,6294.8,2,High Value Readers
+185,351,4,2616.48,3,Occasional Readers
+186,92,9,8332.48,2,High Value Readers
+187,17,5,2876.01,1,At Risk / Inactive
+188,9,2,886.24,1,At Risk / Inactive
+189,49,6,4247.89,1,At Risk / Inactive
+190,57,7,3870.32,0,Frequent Readers
+191,43,5,2428.5299999999997,1,At Risk / Inactive
+192,205,5,3659.82,3,Occasional Readers
+193,67,10,8645.55,2,High Value Readers
+194,126,5,2990.4900000000002,1,At Risk / Inactive
+195,57,13,10242.58,2,High Value Readers
+196,192,6,3792.73,3,Occasional Readers
+197,81,8,3179.1600000000003,0,Frequent Readers
+198,204,6,4402.96,3,Occasional Readers
+199,53,6,2803.15,1,At Risk / Inactive
+200,3,7,4255.61,0,Frequent Readers
+201,164,9,7384.68,2,High Value Readers
+202,4,4,3072.84,1,At Risk / Inactive
+203,24,10,6200.46,0,Frequent Readers
+204,9,6,3010.67,1,At Risk / Inactive
+205,97,7,4639.65,0,Frequent Readers
+206,30,11,7119.15,2,High Value Readers
+207,81,7,4413.24,0,Frequent Readers
+208,35,4,3009.76,1,At Risk / Inactive
+209,172,11,7080.6,2,High Value Readers
+210,83,5,2145.3100000000004,1,At Risk / Inactive
+211,89,3,995.0,1,At Risk / Inactive
+212,39,5,3693.2200000000003,1,At Risk / Inactive
+213,269,6,3044.82,3,Occasional Readers
+214,37,5,3527.36,1,At Risk / Inactive
+215,10,5,3371.94,1,At Risk / Inactive
+216,15,9,7385.06,2,High Value Readers
+217,166,8,5186.79,3,Occasional Readers
+218,79,4,1804.44,1,At Risk / Inactive
+219,1,9,6454.66,0,Frequent Readers
+220,37,8,5783.01,0,Frequent Readers
+221,16,4,2455.0200000000004,1,At Risk / Inactive
+222,25,5,3456.25,1,At Risk / Inactive
+223,18,6,3102.94,1,At Risk / Inactive
+224,88,11,6959.33,2,High Value Readers
+225,12,8,5104.93,0,Frequent Readers
+226,51,5,4524.76,1,At Risk / Inactive
+227,136,6,2751.57,3,Occasional Readers
+228,30,12,7492.03,2,High Value Readers
+229,45,11,7098.16,2,High Value Readers
+230,53,5,2835.15,1,At Risk / Inactive
+231,12,8,4365.53,0,Frequent Readers
+232,26,6,2979.92,1,At Risk / Inactive
+233,86,5,2267.03,1,At Risk / Inactive
+234,158,6,4260.13,3,Occasional Readers
+235,108,6,3439.23,1,At Risk / Inactive
+236,41,4,2151.78,1,At Risk / Inactive
+237,257,4,2062.87,3,Occasional Readers
+238,136,8,4768.63,0,Frequent Readers
+239,121,6,3886.2,1,At Risk / Inactive
+240,58,8,6184.95,0,Frequent Readers
+241,70,6,4230.48,1,At Risk / Inactive
+242,289,5,2577.0099999999998,3,Occasional Readers
+243,18,6,3644.14,1,At Risk / Inactive
+244,51,4,2502.69,1,At Risk / Inactive
+245,6,13,8464.31,2,High Value Readers
+246,64,13,8780.39,2,High Value Readers
+247,98,10,5852.7300000000005,0,Frequent Readers
+248,103,15,10065.4,2,High Value Readers
+249,61,6,3899.96,1,At Risk / Inactive
+250,88,6,3780.86,1,At Risk / Inactive
